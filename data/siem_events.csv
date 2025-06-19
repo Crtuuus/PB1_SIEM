@@ -1,0 +1,4 @@
+event_id,timestamp,event_type,severity,message,asset_id
+1,2025-06-18T14:33:00,failed_login,5,Failed login for user root,1
+2,2025-06-18T15:00:00,port_scan,7,Multiple SYN packets detected,2
+3,2025-06-19T09:12:00,config_change,4,Firewall rule added,3

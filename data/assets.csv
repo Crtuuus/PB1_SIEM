@@ -1,0 +1,4 @@
+asset_id,hostname,ip_address,device_type,location
+1,web01,192.168.1.10,server,DMZ
+2,db01,192.168.1.20,server,Internal
+3,fw01,192.168.1.1,firewall,Edge

@@ -1,0 +1,4 @@
+incident_id,title,description,created_date,status,assigned_to_id
+1,Brute-force on web01,Automated login attempts detected,2025-06-18T14:35:00,open,1
+2,Port scan on db01,Possible reconnaissance,2025-06-18T15:05:00,in progress,2
+3,FW config change review,Unexpected rule addition,2025-06-19T09:15:00,open,3

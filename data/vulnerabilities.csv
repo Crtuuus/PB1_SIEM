@@ -1,0 +1,4 @@
+vuln_id,cve_id,description,score,status,discovered_date,fixed_date,asset_id
+1,CVE-2023-1234,Buffer overflow in HTTP parser,7,open,2025-01-15,,1
+2,CVE-2024-5678,SQL injection in login endpoint,9,fixed,2024-10-10,2025-03-01,2
+3,CVE-2022-9999,Cross-site scripting,5,under investigation,2025-02-20,,3
