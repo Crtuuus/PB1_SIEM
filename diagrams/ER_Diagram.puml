@@ -1,0 +1,64 @@
+@startuml
+entity Asset {
+  * asset_id : PK
+  --
+  hostname
+  ip_address
+  device_type
+  location
+}
+
+entity Vulnerability {
+  * vuln_id : PK
+  --
+  cve_id
+  description
+  score
+  status
+  discovered_date
+  fixed_date
+  FK asset_id
+}
+
+entity SIEMEvent {
+  * event_id : PK
+  --
+  timestamp
+  event_type
+  severity
+  message
+  FK asset_id
+}
+
+entity User {
+  * user_id : PK
+  --
+  name
+  role
+  email
+}
+
+entity Incident {
+  * incident_id : PK
+  --
+  title
+  description
+  created_date
+  status
+  FK assigned_to_id
+}
+
+' Junction table for many-to-many Incident and SIEMEvent
+entity incident_event {
+  * incident_id : FK
+  * event_id : FK
+}
+
+' Relationships with cardinalities and commentary
+Asset ||--o{ Vulnerability : "1 asset can have many vulnerabilities"
+Asset ||--o{ SIEMEvent    : "1 asset can generate many events"
+User  ||--o{ Incident     : "1 user can be assigned to many incidents"
+Incident }o--o{ SIEMEvent    : "An incident can include multiple events and an event might belong to multiple incidents"
+' Each vulnerability belongs to one asset
+Vulnerability }o--|| Asset    : "Each vulnerability belongs to exactly one asset"
+@enduml
