@@ -3,3 +3,5 @@
 ## Projekt pri podatkovnih bazah na FMF
 
 ### Osnovni SIEM (Security Information and Event Management)
+## ER-diagram
+![ER diagram](diagrams/images/ER_Diagram.png)
