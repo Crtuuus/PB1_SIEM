@@ -4,4 +4,4 @@
 
 ### Osnovni SIEM (Security Information and Event Management)
 ## ER-diagram
-![ER diagram](workflow/gen-diagrams.yml)
+![ER diagram](.github/workflows/gen-diagrams.yml)
