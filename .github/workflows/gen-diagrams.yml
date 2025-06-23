@@ -3,7 +3,7 @@ name: Generate PlantUML diagrams
 on:
   push:
     paths:
-      - 'diagrams/**/*.puml'    # sproži se, ko se spremeni .puml
+      - 'diagrams/ER_Diagram.puml'    # sproži se, ko se spremeni .puml
 
 jobs:
   plantuml:
