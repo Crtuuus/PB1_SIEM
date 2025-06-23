@@ -4,4 +4,4 @@
 
 ### Osnovni SIEM (Security Information and Event Management)
 ## ER-diagram
-(images/diagram)
+![ER diagram](images/diagram)
