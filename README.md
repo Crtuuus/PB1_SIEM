@@ -4,4 +4,4 @@
 
 ### Osnovni SIEM (Security Information and Event Management)
 ## ER-diagram
-![ER diagram](PB1_SIEM/diagrams/ER_Diagram.puml)
+![ER diagram](PB1_SIEM/workflow/gen-diagrams.ym)
