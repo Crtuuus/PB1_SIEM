@@ -1,4 +1,51 @@
 asset_id,hostname,ip_address,device_type,location
-1,web01,192.168.1.10,server,DMZ
-2,db01,192.168.1.20,server,Internal
-3,fw01,192.168.1.1,firewall,Edge
+1,lucas-potter,17.214.118.157,Firewall,Chaneyside
+2,randall-middleton,218.21.31.229,Workstation,Kimton
+3,hernandez-hall,75.233.163.249,Server,Kathyborough
+4,johnson,121.13.237.115,Router,East Matthew
+5,mercado-raymond,154.77.216.124,Workstation,South James
+6,miller-beck,14.78.255.199,Workstation,South Julie
+7,dyer,110.83.215.27,Server,Elizabethburgh
+8,vasquez,75.53.250.216,Server,New Richard
+9,fletcher,129.182.251.210,Workstation,Rosebury
+10,lopez,40.20.148.85,Server,North Crystal
+11,carroll-bartlett,220.210.237.19,Firewall,Lindaport
+12,peterson-jones,82.44.77.11,Workstation,North Jefferyshire
+13,drake,170.178.170.38,Switch,Lake Dana
+14,greene,93.179.137.101,Workstation,West David
+15,mccarthy,114.197.40.123,Router,Emmashire
+16,wilson,69.145.95.4,Firewall,Beanbury
+17,terry-arnold,199.233.19.35,Switch,Julianshire
+18,williams-walker,162.143.23.88,Switch,Cynthiamouth
+19,ramirez-rosario,100.188.64.65,Workstation,South Ashley
+20,johnson-martin,19.98.242.172,Server,New Michaeltown
+21,bowen,147.25.232.220,Switch,North Francisborough
+22,becker,19.223.94.248,Firewall,Garciaville
+23,flores,169.27.223.6,Router,East Brittanymouth
+24,allen,5.206.186.95,Router,South Peggyland
+25,bowen,196.210.84.178,Workstation,Robinsonmouth
+26,rivera,202.127.92.136,Server,Caitlinmouth
+27,leonard,201.19.195.223,Workstation,West Stephanie
+28,smith,223.252.108.187,Firewall,Cameronstad
+29,davis-huffman,147.183.192.95,Switch,Lynchshire
+30,jordan-jacobs,28.148.106.103,Router,Barnestown
+31,stewart-davidson,8.120.175.223,Switch,Lowefurt
+32,burnett-garner,95.27.248.198,Switch,Ortegastad
+33,house,104.253.180.130,Switch,New Christine
+34,michael,187.24.51.152,Switch,Norrisberg
+35,torres,86.134.123.196,Workstation,Ronaldshire
+36,espinoza-wong,105.108.7.253,Router,Jackside
+37,miller,31.87.143.95,Switch,South Jameschester
+38,johnson,18.79.48.83,Switch,Lake Clintonport
+39,zuniga,181.192.111.215,Router,Bensonchester
+40,wheeler,192.12.19.107,Switch,Crystalfort
+41,kelly-thompson,174.17.91.241,Switch,South Sherryview
+42,huerta-cochran,31.196.23.156,Firewall,Davisville
+43,davis,92.45.24.84,Switch,Jenniferport
+44,ferguson,40.74.114.137,Router,Houstonside
+45,taylor,41.78.188.32,Switch,Wilsonport
+46,bond,178.217.117.121,Server,West Scottland
+47,clark,2.68.132.41,Router,Juarezchester
+48,hernandez,9.134.194.170,Firewall,North Natalie
+49,gutierrez,76.140.193.204,Workstation,South Gail
+50,beck-cervantes,105.85.148.137,Router,Maldonadoside

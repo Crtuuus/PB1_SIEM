@@ -1,4 +1,101 @@
 vuln_id,cve_id,description,score,status,discovered_date,fixed_date,asset_id
-1,CVE-2023-1234,Buffer overflow in HTTP parser,7,open,2025-01-15,,1
-2,CVE-2024-5678,SQL injection in login endpoint,9,fixed,2024-10-10,2025-03-01,2
-3,CVE-2022-9999,Cross-site scripting,5,under investigation,2025-02-20,,3
+1,CVE-2024-4393,Television Democrat owner lot financial very adult officer.,2,under investigation,2025-06-17T06:14:44,,33
+2,CVE-2006-2297,Eye difficult indicate about.,5,fixed,2023-10-24T19:02:23,,48
+3,CVE-2002-6315,Tv bed gas especially reality else color.,7,fixed,2024-04-29T08:17:55,,22
+4,CVE-2016-1296,Interview religious religious power.,10,fixed,2024-11-06T15:32:15,2024-11-26T04:54:24,44
+5,CVE-2007-4270,Customer move change.,2,under investigation,2025-03-07T21:03:55,,5
+6,CVE-2024-5093,Reflect all partner country because today.,0,under investigation,2025-01-13T06:37:04,,18
+7,CVE-2013-5236,Hit as about fish.,2,open,2024-07-25T12:53:01,,23
+8,CVE-2000-8143,Writer past a industry.,10,fixed,2024-11-10T14:20:39,2024-08-02T16:40:10,29
+9,CVE-2000-2549,Yet film see consider.,5,open,2025-02-09T16:38:29,2025-03-25T13:35:34,40
+10,CVE-2010-4222,Bit hour high benefit traditional performance little.,5,fixed,2025-03-02T02:48:10,,3
+11,CVE-2022-5068,Various development do travel machine.,2,under investigation,2025-01-25T07:30:43,2025-07-11T05:37:02,16
+12,CVE-2025-9103,Five free campaign if there television decade.,7,open,2024-09-06T12:08:34,2024-12-02T13:08:03,41
+13,CVE-2024-1324,Science I home democratic two.,2,open,2024-02-15T20:18:40,2025-01-06T13:59:08,29
+14,CVE-2021-1859,Get both expect her television American available.,6,under investigation,2025-02-10T20:47:22,2025-01-06T07:10:25,21
+15,CVE-2010-3514,Responsibility stop himself type white all.,5,under investigation,2024-01-04T02:34:21,,21
+16,CVE-2003-9106,Thousand hotel marriage decade effort military action.,2,open,2023-10-26T18:31:42,2024-08-04T19:47:49,43
+17,CVE-2021-4284,Exactly view thank official share conference figure.,8,under investigation,2025-01-04T05:14:50,,16
+18,CVE-2005-4133,Value include process wife walk.,2,fixed,2023-11-03T10:18:57,,41
+19,CVE-2022-3144,Social anyone as song meet garden.,3,under investigation,2024-06-19T02:34:54,,19
+20,CVE-2008-2301,With now participant whether.,9,under investigation,2023-12-11T20:24:57,,8
+21,CVE-2015-2272,Main approach likely dream role nice write stop.,8,open,2024-11-29T17:50:31,2025-01-12T20:19:50,25
+22,CVE-2015-4572,Assume spend sort she decade side.,4,fixed,2023-11-22T03:41:42,2025-03-31T06:19:06,44
+23,CVE-2006-1714,Letter chance art social teach simply.,4,open,2024-04-29T21:36:13,,29
+24,CVE-2018-6976,If require why later need sit me.,10,under investigation,2023-08-15T04:38:24,2025-01-01T11:55:38,4
+25,CVE-2016-4959,Subject treat cold firm we edge.,0,fixed,2023-10-12T01:43:06,,31
+26,CVE-2012-6283,Movie pass rest appear exist star.,9,open,2024-08-07T03:45:15,2024-10-18T16:08:44,19
+27,CVE-2019-2298,Stuff me help year discuss.,1,under investigation,2024-12-05T20:15:50,,15
+28,CVE-2021-7549,Total cell tree or ready simple social.,5,under investigation,2025-05-27T07:07:12,,11
+29,CVE-2018-7617,Everybody while miss a.,10,open,2024-02-18T06:09:05,2025-06-05T13:39:03,26
+30,CVE-2021-1959,End career whom purpose.,6,open,2025-05-17T08:37:12,,46
+31,CVE-2006-9265,Standard like treat yet.,10,open,2025-04-09T22:17:28,,21
+32,CVE-2024-5781,Hear major mouth nature.,1,fixed,2023-08-30T13:43:03,,7
+33,CVE-2003-3107,Call fast practice around professor effect recently.,8,under investigation,2025-05-18T05:00:06,2025-01-15T08:11:52,35
+34,CVE-2013-6803,Front management career gun much grow table guess.,10,under investigation,2023-10-15T04:35:48,2025-03-15T00:08:13,39
+35,CVE-2017-7056,Instead act conference next.,9,open,2024-02-01T18:11:37,,32
+36,CVE-2015-2132,Structure cover two compare focus study behavior.,3,under investigation,2025-06-19T06:07:57,2024-11-27T17:22:53,14
+37,CVE-2021-2705,Available despite wide significant.,1,under investigation,2024-01-11T07:52:01,2024-08-05T05:59:22,50
+38,CVE-2006-2003,Moment difference five cut simple lose.,1,open,2023-07-28T09:55:41,,49
+39,CVE-2014-7866,Later painting total.,0,open,2025-03-21T02:25:57,,13
+40,CVE-2003-5425,Minute someone friend as art occur water edge.,1,fixed,2024-11-13T03:25:18,2025-04-04T10:55:44,24
+41,CVE-2006-1961,As star majority couple.,2,open,2025-07-03T13:16:27,,10
+42,CVE-2010-7618,Reflect believe how.,9,open,2025-04-10T00:07:07,2025-05-19T06:32:49,9
+43,CVE-2018-5388,Me generation under amount reason.,7,fixed,2025-04-03T22:14:02,2025-02-07T09:50:52,7
+44,CVE-2010-6429,Back campaign successful discover.,2,open,2024-01-18T13:26:21,2024-12-25T13:42:57,4
+45,CVE-2002-5410,Prove think say item successful.,7,under investigation,2023-09-05T23:43:47,2024-09-13T07:28:19,6
+46,CVE-2025-1152,Relate down man some.,7,fixed,2025-02-02T13:30:04,,27
+47,CVE-2012-5833,Occur interest list production.,6,under investigation,2025-04-26T03:57:23,,27
+48,CVE-2015-6562,My author foreign through along fill.,5,fixed,2025-06-30T22:31:35,2025-02-01T10:23:31,23
+49,CVE-2014-8073,Capital clearly prevent fine bank civil.,4,under investigation,2024-08-28T02:39:03,2024-10-28T03:18:18,34
+50,CVE-2000-5229,Something pretty free.,3,under investigation,2023-07-23T10:03:07,2024-09-12T19:01:49,43
+51,CVE-2015-7302,Discussion appear far game fill.,7,fixed,2024-05-02T00:24:59,,1
+52,CVE-2014-5956,Television wrong lose wide every hard happen.,0,under investigation,2024-02-03T11:18:39,,14
+53,CVE-2012-6674,Important side oil without authority return.,2,under investigation,2023-12-30T17:17:00,2025-05-01T19:19:16,12
+54,CVE-2011-7707,Source letter for near quite team.,2,under investigation,2024-11-06T20:07:38,2025-01-16T18:43:34,20
+55,CVE-2014-5557,What mean wind sister clearly face power.,10,open,2024-02-24T06:49:33,2025-03-03T21:07:17,5
+56,CVE-2017-4166,By whose career represent conference.,5,under investigation,2024-10-06T20:40:43,,23
+57,CVE-2024-2732,Out operation despite serve guess challenge.,2,fixed,2024-12-09T16:31:55,2024-07-18T10:19:59,34
+58,CVE-2007-2667,Moment girl boy road student say indeed decide.,6,open,2023-12-07T16:31:12,2024-12-28T10:23:43,23
+59,CVE-2012-1077,Material owner exactly physical so between center.,0,open,2025-06-01T10:30:02,,7
+60,CVE-2018-1254,Order reveal front positive series.,8,open,2023-12-09T13:58:07,2025-03-04T21:10:54,8
+61,CVE-2000-4621,Week weight air avoid language early south civil.,1,under investigation,2024-11-16T13:57:53,,18
+62,CVE-2008-9412,Relate bit read minute trip true.,6,under investigation,2024-05-11T03:55:08,2024-10-18T15:03:45,43
+63,CVE-2022-1110,Yard president anything.,3,under investigation,2023-11-08T05:36:22,2025-05-31T15:16:41,2
+64,CVE-2011-4148,Often evidence must now use indicate price final.,6,under investigation,2025-05-24T03:23:05,,5
+65,CVE-2025-6637,Across ability ask back fact.,3,open,2024-12-04T23:46:58,,43
+66,CVE-2012-8593,Music actually again hear series allow.,6,open,2025-03-11T14:48:38,,21
+67,CVE-2000-6080,Soldier budget into them as.,6,fixed,2024-02-12T01:02:37,2024-08-08T19:22:48,9
+68,CVE-2003-9349,Edge worry gas conference third build.,8,under investigation,2023-12-09T00:54:14,,24
+69,CVE-2016-1136,Beat determine country compare those impact.,1,under investigation,2025-03-08T05:17:02,2024-10-20T23:57:32,10
+70,CVE-2016-2976,Owner quickly conference happen.,1,open,2025-05-26T14:09:36,,37
+71,CVE-2017-7532,Behavior number scene cost will TV role stock.,6,open,2025-06-05T01:48:47,2024-09-06T08:25:17,10
+72,CVE-2007-7679,Number street all agreement stuff piece floor.,2,under investigation,2024-06-28T20:31:48,,20
+73,CVE-2005-5560,President social five keep light.,3,under investigation,2023-07-15T14:28:01,2025-01-06T10:54:52,9
+74,CVE-2025-8673,Door fine ground.,0,under investigation,2023-09-09T07:53:20,,1
+75,CVE-2005-2588,Present rest citizen million.,2,fixed,2025-04-02T13:48:14,,2
+76,CVE-2018-5699,Edge phone begin move do training.,7,open,2023-11-30T00:41:29,2024-12-24T20:45:39,1
+77,CVE-2014-8843,Rock after because too defense card charge.,2,under investigation,2025-06-04T13:51:00,,16
+78,CVE-2023-6104,Become fund exactly she.,1,fixed,2023-09-23T13:09:31,2025-03-11T01:19:17,1
+79,CVE-2000-5844,Still crime individual plan.,8,fixed,2024-05-19T05:07:19,2025-04-17T07:29:07,6
+80,CVE-2007-6759,Each simply manage require.,1,open,2023-09-20T06:23:30,,17
+81,CVE-2018-2914,Consumer conference city whom around work.,1,open,2024-07-19T00:13:33,,43
+82,CVE-2012-4547,Likely financial decade.,2,under investigation,2024-08-29T10:51:15,2024-10-09T04:50:34,17
+83,CVE-2018-5501,Number give him child event carry point.,10,fixed,2023-10-16T15:11:37,,38
+84,CVE-2016-2161,Order ready three foot.,10,under investigation,2024-11-05T11:37:52,,8
+85,CVE-2000-3034,Game onto last customer thank effect.,5,open,2024-08-11T05:42:48,2024-08-16T17:40:39,13
+86,CVE-2015-5476,Staff require interesting minute behavior.,1,fixed,2024-02-02T22:15:43,2025-03-25T07:31:26,1
+87,CVE-2019-5817,Adult argue hospital doctor note entire article nature.,6,open,2025-05-21T10:39:13,,30
+88,CVE-2016-2087,Before within always too air finish painting special.,1,fixed,2024-03-25T12:46:59,2025-01-04T09:45:26,8
+89,CVE-2021-4667,Determine fall figure true degree yourself.,8,fixed,2023-08-21T01:14:50,,24
+90,CVE-2025-3509,Thank end professor behavior everyone compare.,3,under investigation,2023-09-01T03:21:36,2025-03-05T06:33:29,43
+91,CVE-2000-1029,Morning site development main song could.,1,open,2023-09-26T02:59:26,,38
+92,CVE-2023-4273,Indicate himself soldier personal hold simple because.,7,fixed,2024-07-25T17:42:59,,38
+93,CVE-2003-1823,Similar attorney school.,10,fixed,2023-08-04T13:36:13,,17
+94,CVE-2024-2962,Newspaper program lose material sing reach.,10,open,2024-08-24T18:41:00,2025-03-28T07:31:59,17
+95,CVE-2004-1535,Us product market responsibility return.,2,fixed,2024-10-28T18:19:13,2025-06-06T15:50:33,34
+96,CVE-2025-2991,Avoid specific stand even name.,6,fixed,2025-01-04T12:16:00,,2
+97,CVE-2014-1922,Customer mention agree goal all part part.,6,fixed,2024-10-25T02:43:07,2025-04-12T09:07:40,34
+98,CVE-2009-2525,Image under prepare baby church perform during.,9,under investigation,2024-07-03T12:24:34,,16
+99,CVE-2007-5076,Animal friend share assume company.,6,open,2024-09-02T17:53:47,,32
+100,CVE-2024-5285,Floor listen thing enough.,5,under investigation,2024-05-29T10:31:58,,39
