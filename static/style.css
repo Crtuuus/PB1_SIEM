@@ -1,0 +1,63 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 0.75rem;
+    border: 1px solid #dee2e6;
+}
+
+th {
+    background-color: #343a40;
+    color: white;
+    text-align: left;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.pagination a {
+    margin: 0 5px;
+    padding: 0.5rem 1rem;
+    background: #007bff;
+    color: white;
+    border-radius: 4px;
+    text-decoration: none;
+}
+.navbar {
+    background-color: #343a40;
+    padding: 1rem;
+}
+.navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+}
+.navbar li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.navbar li a:hover {
+    text-decoration: underline;
+}
+.chart-container {
+  max-width: 500px;
+  margin: 2rem auto;
+}
+
+canvas {
+  width: 100%;
+  height: auto;
+}
+

@@ -1,164 +1,105 @@
-from bottle import Bottle, run, request, redirect, template
-from sqlalchemy import create_engine
+from bottle import Bottle, run, template, static_file, request, redirect
+from sqlalchemy import create_engine, desc
 from sqlalchemy.orm import sessionmaker
+from models import Base, User, Asset, SIEMEvent, Vulnerability, Incident
+from bottle import TEMPLATE_PATH
+import os
+from collections import Counter, defaultdict
+from datetime import datetime
+import json
 
-from models import Asset, Vulnerability, Incident, SIEMEvent, IncidentEvent
+# Nastavi pot do template map
+TEMPLATE_PATH.insert(0, os.path.join(os.path.dirname(__file__), 'templates'))
 
-# Initialize Bottle app
+# Inicializiraj Bottle aplikacijo
 app = Bottle()
 
-# Initialize database session
+# Povezava z SQLite bazo
 engine = create_engine('sqlite:///siem.db')
 Session = sessionmaker(bind=engine)
+session = Session()
 
-# Home page with navigation
+@app.route('/static/<filepath:path>')
+def server_static(filepath):
+    return static_file(filepath, root='static')
+
 @app.route('/')
-def index():
-    return template('''
-    <h1>SIEM Dashboard</h1>
-    <ul>
-      <li><a href="/assets">Assets</a></li>
-      <li><a href="/vulnerabilities">Vulnerabilities</a></li>
-      <li><a href="/events">SIEM Events</a></li>
-      <li><a href="/incidents">Incidents</a></li>
-    </ul>
-    ''')
+def dashboard():
+    users_count = session.query(User).count()
+    assets_count = session.query(Asset).count()
+    events_count = session.query(SIEMEvent).count()
+    vulns_count = session.query(Vulnerability).count()
+    incidents = session.query(Incident).all()
 
-# List all assets
-@app.route('/assets')
-def list_assets():
-    session = Session()
-    assets = session.query(Asset).all()
-    return template('''
-    <h2>Assets</h2>
-    <ul>
-    % for a in assets:
-      <li><a href="/assets/{{a.asset_id}}">{{a.hostname}}</a></li>
-    % end
-    </ul>
-    ''', assets=assets)
+    # Pie chart (incident types)
+    incident_stats = Counter([inc.title for inc in incidents])
 
-# Show asset details
-@app.route('/assets/<id:int>')
-def show_asset(id):
-    session = Session()
-    asset = session.query(Asset).get(id)
-    if not asset:
-        return "Asset not found"
-    vulnerabilities = session.query(Vulnerability).filter_by(asset_id=id).all()
-    events = session.query(SIEMEvent).filter_by(asset_id=id).all()
-    incident_links = session.query(IncidentEvent).filter_by(event_id=None).all()  # placeholder for join filtering
-    # Correctly fetch incidents via association
-    incident_links = session.query(IncidentEvent).filter_by(event_id=None).all()  # remove placeholder if unnecessary
-    # For simplicity, query via asset.events
-    incidents = []
-    for evt in events:
-        for inc in evt.incidents:
-            if inc not in incidents:
-                incidents.append(inc)
-    return template('''
-    <h2>Asset: {{asset.hostname}}</h2>
-    <p><strong>ID:</strong> {{asset.asset_id}}</p>
-    <p><strong>IP Address:</strong> {{asset.ip_address}}</p>
-    <p><strong>Device Type:</strong> {{asset.device_type}}</p>
-<h3>Vulnerabilities</h3>
-<ul>
-% if vulnerabilities:
-    % for v in vulnerabilities:
-        <li>{{v.description}} (Score: {{v.score}})</li>
-    % end
-% else:
-    <li>No vulnerabilities</li>
-% end
-</ul>
+    # Histogram (incident counts per month)
+    monthly_stats = defaultdict(int)
+    for inc in incidents:
+        if inc.created_date:
+            key = inc.created_date.strftime('%Y-%m')
+            monthly_stats[key] += 1
 
-<h3>SIEM Events</h3>
-<ul>
-% if events:
-    % for e in events:
-        <li>{{e.event_type}} at {{e.timestamp}}</li>
-    % end
-% else:
-    <li>No events</li>
-% end
-</ul>
+    return template('index.tpl',
+                    users_count=users_count,
+                    assets_count=assets_count,
+                    events_count=events_count,
+                    vulns_count=vulns_count,
+                    incidents=incidents,
+                    incident_stats=incident_stats,
+                    monthly_stats=monthly_stats,
+                    json=json)
 
-<h3>Incidents</h3>
-% if incidents:
-    <ul>
-    % for inc in incidents:
-        <li><a href="/incidents/{{inc.incident_id}}">{{inc.title}}</a></li>
-    % end
-    </ul>
-% else:
-    <p>No incidents</p>
-% end
-    ''', asset=asset, vulnerabilities=vulnerabilities, events=events, incidents=incidents)
-
-# List vulnerabilities
-@app.route('/vulnerabilities')
-def list_vulns():
-    session = Session()
-    vulns = session.query(Vulnerability).all()
-    return template('''
-    <h2>Vulnerabilities</h2>
-    <ul>
-    % for v in vulns:
-      <li>Asset {{v.asset_id}}: {{v.description}} (Score: {{v.score}})</li>
-    % end
-    </ul>
-    ''', vulns=vulns)
-
-# List SIEM events
-@app.route('/events')
-def list_events():
-    session = Session()
-    events = session.query(SIEMEvent).all()
-    return template('''
-    <h2>SIEM Events</h2>
-    <ul>
-    % for e in events:
-      <li>Asset {{e.asset_id}} - {{e.event_type}} at {{e.timestamp}}</li>
-    % end
-    </ul>
-    ''', events=events)
-
-# List incidents
 @app.route('/incidents')
 def list_incidents():
-    session = Session()
-    incidents = session.query(Incident).all()
-    return template('''
-    <h2>Incidents</h2>
-    <ul>
-    % for inc in incidents:
-      <li><a href="/incidents/{{inc.incident_id}}">{{inc.title}}</a> (Status: {{inc.status}})</li>
-    % end
-    </ul>
-    ''', incidents=incidents)
+    page = int(request.query.get('page', 1))
+    per_page = 40
+    sort = request.query.get('sort', 'created_date')
+    order = request.query.get('order', 'desc')
 
-# Show incident details
-@app.route('/incidents/<id:int>')
-def show_incident(id):
-    session = Session()
-    inc = session.query(Incident).get(id)
-    if not inc:
-        return "Incident not found"
-    events = inc.events
-    return template('''
-    <h2>Incident: {{inc.title}}</h2>
-    <p><strong>Description:</strong> {{inc.description}}</p>
-    <p><strong>Status:</strong> {{inc.status}}</p>
-    <h3>Related Events</h3>
-    <ul>
-    % for e in events:
-      <li>{{e.event_type}} on Asset {{e.asset_id}} at {{e.timestamp}}</li>
-    % else:
-      <li>No related events</li>
-    % end
-    </ul>
-    ''', inc=inc, events=events)
+    q = session.query(Incident)
+    if sort == 'severity':
+        q = q.order_by(desc(Incident.status))  # adjust if severity exists
+    else:
+        q = q.order_by(desc(getattr(Incident, sort)))
 
-# Run the application
+    total = q.count()
+    incidents = q.offset((page - 1) * per_page).limit(per_page).all()
+
+    return template('incidents.tpl',
+                    incidents=incidents,
+                    page=page,
+                    total=total,
+                    per_page=per_page)
+
+@app.route('/users')
+def list_users():
+    page = int(request.query.get('page', 1))
+    per_page = 50
+    total = session.query(User).count()
+    users = session.query(User).offset((page-1)*per_page).limit(per_page).all()
+    return template('users.tpl', users=users, page=page, total=total, per_page=per_page)
+
+
+@app.route('/assets')
+def list_assets():
+    page = int(request.query.get('page', 1))
+    per_page = 50
+    total = session.query(Asset).count()
+    assets = session.query(Asset).offset((page-1)*per_page).limit(per_page).all()
+    return template('assets.tpl', assets=assets, page=page, total=total, per_page=per_page)
+
+
+@app.route('/events')
+def list_events():
+    events = session.query(SIEMEvent).all()
+    return template('events.tpl', events=events)
+
+@app.route('/vulnerabilities')
+def list_vulns():
+    vulns = session.query(Vulnerability).all()
+    return template('vulnerabilities.tpl', vulns=vulns)
+
 if __name__ == '__main__':
-    run(app, host='0.0.0.0', port=8080, reloader=True)
+    run(app, host='localhost', port=8080, debug=True, reloader=True)
