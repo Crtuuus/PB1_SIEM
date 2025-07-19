@@ -1,101 +1,501 @@
 vuln_id,cve_id,description,score,status,discovered_date,fixed_date,asset_id
-1,CVE-2024-4393,Television Democrat owner lot financial very adult officer.,2,under investigation,2025-06-17T06:14:44,,33
-2,CVE-2006-2297,Eye difficult indicate about.,5,fixed,2023-10-24T19:02:23,,48
-3,CVE-2002-6315,Tv bed gas especially reality else color.,7,fixed,2024-04-29T08:17:55,,22
-4,CVE-2016-1296,Interview religious religious power.,10,fixed,2024-11-06T15:32:15,2024-11-26T04:54:24,44
-5,CVE-2007-4270,Customer move change.,2,under investigation,2025-03-07T21:03:55,,5
-6,CVE-2024-5093,Reflect all partner country because today.,0,under investigation,2025-01-13T06:37:04,,18
-7,CVE-2013-5236,Hit as about fish.,2,open,2024-07-25T12:53:01,,23
-8,CVE-2000-8143,Writer past a industry.,10,fixed,2024-11-10T14:20:39,2024-08-02T16:40:10,29
-9,CVE-2000-2549,Yet film see consider.,5,open,2025-02-09T16:38:29,2025-03-25T13:35:34,40
-10,CVE-2010-4222,Bit hour high benefit traditional performance little.,5,fixed,2025-03-02T02:48:10,,3
-11,CVE-2022-5068,Various development do travel machine.,2,under investigation,2025-01-25T07:30:43,2025-07-11T05:37:02,16
-12,CVE-2025-9103,Five free campaign if there television decade.,7,open,2024-09-06T12:08:34,2024-12-02T13:08:03,41
-13,CVE-2024-1324,Science I home democratic two.,2,open,2024-02-15T20:18:40,2025-01-06T13:59:08,29
-14,CVE-2021-1859,Get both expect her television American available.,6,under investigation,2025-02-10T20:47:22,2025-01-06T07:10:25,21
-15,CVE-2010-3514,Responsibility stop himself type white all.,5,under investigation,2024-01-04T02:34:21,,21
-16,CVE-2003-9106,Thousand hotel marriage decade effort military action.,2,open,2023-10-26T18:31:42,2024-08-04T19:47:49,43
-17,CVE-2021-4284,Exactly view thank official share conference figure.,8,under investigation,2025-01-04T05:14:50,,16
-18,CVE-2005-4133,Value include process wife walk.,2,fixed,2023-11-03T10:18:57,,41
-19,CVE-2022-3144,Social anyone as song meet garden.,3,under investigation,2024-06-19T02:34:54,,19
-20,CVE-2008-2301,With now participant whether.,9,under investigation,2023-12-11T20:24:57,,8
-21,CVE-2015-2272,Main approach likely dream role nice write stop.,8,open,2024-11-29T17:50:31,2025-01-12T20:19:50,25
-22,CVE-2015-4572,Assume spend sort she decade side.,4,fixed,2023-11-22T03:41:42,2025-03-31T06:19:06,44
-23,CVE-2006-1714,Letter chance art social teach simply.,4,open,2024-04-29T21:36:13,,29
-24,CVE-2018-6976,If require why later need sit me.,10,under investigation,2023-08-15T04:38:24,2025-01-01T11:55:38,4
-25,CVE-2016-4959,Subject treat cold firm we edge.,0,fixed,2023-10-12T01:43:06,,31
-26,CVE-2012-6283,Movie pass rest appear exist star.,9,open,2024-08-07T03:45:15,2024-10-18T16:08:44,19
-27,CVE-2019-2298,Stuff me help year discuss.,1,under investigation,2024-12-05T20:15:50,,15
-28,CVE-2021-7549,Total cell tree or ready simple social.,5,under investigation,2025-05-27T07:07:12,,11
-29,CVE-2018-7617,Everybody while miss a.,10,open,2024-02-18T06:09:05,2025-06-05T13:39:03,26
-30,CVE-2021-1959,End career whom purpose.,6,open,2025-05-17T08:37:12,,46
-31,CVE-2006-9265,Standard like treat yet.,10,open,2025-04-09T22:17:28,,21
-32,CVE-2024-5781,Hear major mouth nature.,1,fixed,2023-08-30T13:43:03,,7
-33,CVE-2003-3107,Call fast practice around professor effect recently.,8,under investigation,2025-05-18T05:00:06,2025-01-15T08:11:52,35
-34,CVE-2013-6803,Front management career gun much grow table guess.,10,under investigation,2023-10-15T04:35:48,2025-03-15T00:08:13,39
-35,CVE-2017-7056,Instead act conference next.,9,open,2024-02-01T18:11:37,,32
-36,CVE-2015-2132,Structure cover two compare focus study behavior.,3,under investigation,2025-06-19T06:07:57,2024-11-27T17:22:53,14
-37,CVE-2021-2705,Available despite wide significant.,1,under investigation,2024-01-11T07:52:01,2024-08-05T05:59:22,50
-38,CVE-2006-2003,Moment difference five cut simple lose.,1,open,2023-07-28T09:55:41,,49
-39,CVE-2014-7866,Later painting total.,0,open,2025-03-21T02:25:57,,13
-40,CVE-2003-5425,Minute someone friend as art occur water edge.,1,fixed,2024-11-13T03:25:18,2025-04-04T10:55:44,24
-41,CVE-2006-1961,As star majority couple.,2,open,2025-07-03T13:16:27,,10
-42,CVE-2010-7618,Reflect believe how.,9,open,2025-04-10T00:07:07,2025-05-19T06:32:49,9
-43,CVE-2018-5388,Me generation under amount reason.,7,fixed,2025-04-03T22:14:02,2025-02-07T09:50:52,7
-44,CVE-2010-6429,Back campaign successful discover.,2,open,2024-01-18T13:26:21,2024-12-25T13:42:57,4
-45,CVE-2002-5410,Prove think say item successful.,7,under investigation,2023-09-05T23:43:47,2024-09-13T07:28:19,6
-46,CVE-2025-1152,Relate down man some.,7,fixed,2025-02-02T13:30:04,,27
-47,CVE-2012-5833,Occur interest list production.,6,under investigation,2025-04-26T03:57:23,,27
-48,CVE-2015-6562,My author foreign through along fill.,5,fixed,2025-06-30T22:31:35,2025-02-01T10:23:31,23
-49,CVE-2014-8073,Capital clearly prevent fine bank civil.,4,under investigation,2024-08-28T02:39:03,2024-10-28T03:18:18,34
-50,CVE-2000-5229,Something pretty free.,3,under investigation,2023-07-23T10:03:07,2024-09-12T19:01:49,43
-51,CVE-2015-7302,Discussion appear far game fill.,7,fixed,2024-05-02T00:24:59,,1
-52,CVE-2014-5956,Television wrong lose wide every hard happen.,0,under investigation,2024-02-03T11:18:39,,14
-53,CVE-2012-6674,Important side oil without authority return.,2,under investigation,2023-12-30T17:17:00,2025-05-01T19:19:16,12
-54,CVE-2011-7707,Source letter for near quite team.,2,under investigation,2024-11-06T20:07:38,2025-01-16T18:43:34,20
-55,CVE-2014-5557,What mean wind sister clearly face power.,10,open,2024-02-24T06:49:33,2025-03-03T21:07:17,5
-56,CVE-2017-4166,By whose career represent conference.,5,under investigation,2024-10-06T20:40:43,,23
-57,CVE-2024-2732,Out operation despite serve guess challenge.,2,fixed,2024-12-09T16:31:55,2024-07-18T10:19:59,34
-58,CVE-2007-2667,Moment girl boy road student say indeed decide.,6,open,2023-12-07T16:31:12,2024-12-28T10:23:43,23
-59,CVE-2012-1077,Material owner exactly physical so between center.,0,open,2025-06-01T10:30:02,,7
-60,CVE-2018-1254,Order reveal front positive series.,8,open,2023-12-09T13:58:07,2025-03-04T21:10:54,8
-61,CVE-2000-4621,Week weight air avoid language early south civil.,1,under investigation,2024-11-16T13:57:53,,18
-62,CVE-2008-9412,Relate bit read minute trip true.,6,under investigation,2024-05-11T03:55:08,2024-10-18T15:03:45,43
-63,CVE-2022-1110,Yard president anything.,3,under investigation,2023-11-08T05:36:22,2025-05-31T15:16:41,2
-64,CVE-2011-4148,Often evidence must now use indicate price final.,6,under investigation,2025-05-24T03:23:05,,5
-65,CVE-2025-6637,Across ability ask back fact.,3,open,2024-12-04T23:46:58,,43
-66,CVE-2012-8593,Music actually again hear series allow.,6,open,2025-03-11T14:48:38,,21
-67,CVE-2000-6080,Soldier budget into them as.,6,fixed,2024-02-12T01:02:37,2024-08-08T19:22:48,9
-68,CVE-2003-9349,Edge worry gas conference third build.,8,under investigation,2023-12-09T00:54:14,,24
-69,CVE-2016-1136,Beat determine country compare those impact.,1,under investigation,2025-03-08T05:17:02,2024-10-20T23:57:32,10
-70,CVE-2016-2976,Owner quickly conference happen.,1,open,2025-05-26T14:09:36,,37
-71,CVE-2017-7532,Behavior number scene cost will TV role stock.,6,open,2025-06-05T01:48:47,2024-09-06T08:25:17,10
-72,CVE-2007-7679,Number street all agreement stuff piece floor.,2,under investigation,2024-06-28T20:31:48,,20
-73,CVE-2005-5560,President social five keep light.,3,under investigation,2023-07-15T14:28:01,2025-01-06T10:54:52,9
-74,CVE-2025-8673,Door fine ground.,0,under investigation,2023-09-09T07:53:20,,1
-75,CVE-2005-2588,Present rest citizen million.,2,fixed,2025-04-02T13:48:14,,2
-76,CVE-2018-5699,Edge phone begin move do training.,7,open,2023-11-30T00:41:29,2024-12-24T20:45:39,1
-77,CVE-2014-8843,Rock after because too defense card charge.,2,under investigation,2025-06-04T13:51:00,,16
-78,CVE-2023-6104,Become fund exactly she.,1,fixed,2023-09-23T13:09:31,2025-03-11T01:19:17,1
-79,CVE-2000-5844,Still crime individual plan.,8,fixed,2024-05-19T05:07:19,2025-04-17T07:29:07,6
-80,CVE-2007-6759,Each simply manage require.,1,open,2023-09-20T06:23:30,,17
-81,CVE-2018-2914,Consumer conference city whom around work.,1,open,2024-07-19T00:13:33,,43
-82,CVE-2012-4547,Likely financial decade.,2,under investigation,2024-08-29T10:51:15,2024-10-09T04:50:34,17
-83,CVE-2018-5501,Number give him child event carry point.,10,fixed,2023-10-16T15:11:37,,38
-84,CVE-2016-2161,Order ready three foot.,10,under investigation,2024-11-05T11:37:52,,8
-85,CVE-2000-3034,Game onto last customer thank effect.,5,open,2024-08-11T05:42:48,2024-08-16T17:40:39,13
-86,CVE-2015-5476,Staff require interesting minute behavior.,1,fixed,2024-02-02T22:15:43,2025-03-25T07:31:26,1
-87,CVE-2019-5817,Adult argue hospital doctor note entire article nature.,6,open,2025-05-21T10:39:13,,30
-88,CVE-2016-2087,Before within always too air finish painting special.,1,fixed,2024-03-25T12:46:59,2025-01-04T09:45:26,8
-89,CVE-2021-4667,Determine fall figure true degree yourself.,8,fixed,2023-08-21T01:14:50,,24
-90,CVE-2025-3509,Thank end professor behavior everyone compare.,3,under investigation,2023-09-01T03:21:36,2025-03-05T06:33:29,43
-91,CVE-2000-1029,Morning site development main song could.,1,open,2023-09-26T02:59:26,,38
-92,CVE-2023-4273,Indicate himself soldier personal hold simple because.,7,fixed,2024-07-25T17:42:59,,38
-93,CVE-2003-1823,Similar attorney school.,10,fixed,2023-08-04T13:36:13,,17
-94,CVE-2024-2962,Newspaper program lose material sing reach.,10,open,2024-08-24T18:41:00,2025-03-28T07:31:59,17
-95,CVE-2004-1535,Us product market responsibility return.,2,fixed,2024-10-28T18:19:13,2025-06-06T15:50:33,34
-96,CVE-2025-2991,Avoid specific stand even name.,6,fixed,2025-01-04T12:16:00,,2
-97,CVE-2014-1922,Customer mention agree goal all part part.,6,fixed,2024-10-25T02:43:07,2025-04-12T09:07:40,34
-98,CVE-2009-2525,Image under prepare baby church perform during.,9,under investigation,2024-07-03T12:24:34,,16
-99,CVE-2007-5076,Animal friend share assume company.,6,open,2024-09-02T17:53:47,,32
-100,CVE-2024-5285,Floor listen thing enough.,5,under investigation,2024-05-29T10:31:58,,39
+1,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,open,2024-01-30T03:03:20,,1
+2,CVE-2018-8295,Local privilege escalation via PrintNightmare,7,fixed,2025-05-25T17:45:09,2025-02-17T04:12:53,2
+3,CVE-2005-8689,Apache HTTP Server Path Traversal (CVE-2021-41773),9,under investigation,2024-11-26T03:41:14,,3
+4,CVE-2011-3715,Open Telnet port detected,5,fixed,2025-05-20T12:30:46,,4
+5,CVE-2014-1341,Cisco IOS Buffer Overflow CVE-2022-20695,7,under investigation,2023-08-05T18:27:44,2025-03-14T06:42:52,5
+6,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,open,2023-12-22T23:40:33,2024-11-25T02:32:07,6
+7,CVE-2021-28799,CVE-2021-28799 - Unauthenticated RCE in QNAP,9,under investigation,2024-02-13T11:53:26,,7
+8,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,fixed,2024-04-11T04:47:23,,8
+9,CVE-2009-5072,Outdated Chrome vulnerable to CVE-2021-30551,6,under investigation,2024-07-12T19:17:29,,9
+10,CVE-2017-6678,MySQL misconfiguration allows remote root login,7,open,2024-03-06T03:48:57,,10
+11,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,under investigation,2025-07-19T06:52:45,,11
+12,CVE-2024-5858,Unencrypted management interface,5,fixed,2024-08-10T20:24:50,,12
+13,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,open,2025-07-19T06:49:23,,13
+14,CVE-2021-28799,CVE-2021-28799 - Unauthenticated RCE in QNAP,9,fixed,2024-07-20T01:56:49,2025-06-27T19:28:47,14
+15,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,fixed,2025-05-20T16:32:11,,15
+16,CVE-2015-9534,Outdated Chrome vulnerable to CVE-2021-30551,6,under investigation,2024-01-31T04:27:19,,16
+17,CVE-2021-44228,CVE-2021-44228 - Log4Shell vulnerability,10,open,2024-03-21T18:11:30,,17
+18,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,fixed,2024-01-21T02:32:42,,18
+19,CVE-2007-9609,Cisco IOS Buffer Overflow CVE-2022-20695,7,fixed,2023-08-31T02:06:56,2025-02-28T00:40:55,19
+20,CVE-2018-5933,Unauthenticated printer web interface access,4,open,2024-02-01T03:47:39,2024-12-17T05:38:31,20
+21,CVE-2019-3880,Exposed public SMB share,6,under investigation,2024-04-22T17:58:29,2025-05-25T04:36:56,21
+22,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,under investigation,2023-11-17T18:07:13,,22
+23,CVE-2014-4416,Local privilege escalation via PrintNightmare,7,fixed,2024-03-26T22:36:23,,23
+24,CVE-2021-44228,CVE-2021-44228 - Log4Shell vulnerability,10,open,2024-01-01T11:47:56,,24
+25,CVE-2019-2903,Weak SNMP community strings,4,under investigation,2024-08-29T15:11:37,,25
+26,CVE-2015-1115,Cisco IOS Buffer Overflow CVE-2022-20695,7,open,2024-08-19T09:15:08,,26
+27,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,under investigation,2024-04-12T03:40:25,,27
+28,CVE-2005-5088,Exposed public SMB share,6,open,2025-02-11T17:48:00,2025-02-07T19:22:55,28
+29,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,fixed,2024-01-31T07:43:03,,29
+30,CVE-2022-30190,CVE-2022-30190 - Microsoft Follina RCE,8,open,2024-05-07T07:03:13,2024-11-28T07:47:08,30
+31,CVE-2014-4056,Apache HTTP Server Path Traversal (CVE-2021-41773),9,under investigation,2023-08-08T02:13:39,2024-09-21T15:41:20,31
+32,CVE-2025-7815,Open Telnet port detected,5,open,2024-10-30T06:59:18,2024-10-30T01:40:55,32
+33,CVE-2007-6544,Cisco IOS Buffer Overflow CVE-2022-20695,7,under investigation,2025-04-04T06:13:29,,33
+34,CVE-2023-9846,Unauthenticated printer web interface access,4,fixed,2025-04-26T01:34:22,2024-08-31T01:57:17,34
+35,CVE-2021-28799,CVE-2021-28799 - Unauthenticated RCE in QNAP,9,fixed,2024-12-08T07:32:18,,35
+36,CVE-2012-5993,Default admin credentials enabled,6,under investigation,2024-10-15T11:14:21,,36
+37,CVE-2022-30190,CVE-2022-30190 - Microsoft Follina RCE,8,open,2024-10-12T04:30:24,2024-12-16T23:54:18,37
+38,CVE-2021-44228,CVE-2021-44228 - Log4Shell vulnerability,10,fixed,2025-05-02T01:10:00,,38
+39,CVE-2019-5457,Weak SNMP community strings,4,under investigation,2024-04-29T05:58:59,,39
+40,CVE-2009-8465,Unencrypted management interface,5,under investigation,2024-03-26T08:05:29,2025-05-21T15:12:31,40
+41,CVE-2018-6664,Unauthenticated printer web interface access,4,fixed,2024-07-26T16:03:48,,41
+42,CVE-2015-3255,Outdated Samba version vulnerable to CVE-2017-7494,7,open,2023-08-12T10:05:57,2024-09-05T04:31:15,42
+43,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,under investigation,2024-10-05T00:48:06,,43
+44,CVE-2003-8456,Outdated Chrome vulnerable to CVE-2021-30551,6,under investigation,2023-10-19T10:44:26,,44
+45,CVE-2015-8484,Apache HTTP Server Path Traversal (CVE-2021-41773),9,under investigation,2023-07-29T09:33:01,,45
+46,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,fixed,2023-09-04T04:46:30,2024-08-31T21:30:37,46
+47,CVE-2014-3513,Unencrypted management interface,5,under investigation,2023-10-01T12:04:13,2025-04-28T13:23:14,47
+48,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,open,2025-06-13T01:31:20,,48
+49,CVE-2001-9881,Exposed public SMB share,6,fixed,2025-03-17T18:53:22,,49
+50,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,fixed,2025-06-28T07:08:34,,50
+51,CVE-2022-30190,CVE-2022-30190 - Microsoft Follina RCE,8,open,2024-08-26T11:09:02,2024-10-13T01:57:50,51
+52,CVE-2021-44228,CVE-2021-44228 - Log4Shell vulnerability,10,under investigation,2024-09-21T21:50:58,2024-09-06T09:47:23,52
+53,CVE-2025-7313,Weak SNMP community strings,4,open,2024-08-01T14:58:04,2024-11-16T08:43:50,53
+54,CVE-2014-6894,Cisco IOS Buffer Overflow CVE-2022-20695,7,open,2024-07-24T07:53:55,2024-12-06T10:57:48,54
+55,CVE-2014-7049,Unauthenticated printer web interface access,4,under investigation,2025-04-03T07:55:00,,55
+56,CVE-2014-5520,Outdated Samba version vulnerable to CVE-2017-7494,7,open,2024-11-17T17:26:32,2025-05-14T02:44:20,56
+57,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,under investigation,2024-09-15T11:08:15,,57
+58,CVE-2022-30190,CVE-2022-30190 - Microsoft Follina RCE,8,fixed,2024-03-27T09:22:42,,58
+59,CVE-2019-6774,MySQL misconfiguration allows remote root login,7,open,2025-04-14T05:07:21,,59
+60,CVE-2012-6396,Weak SNMP community strings,4,open,2023-12-06T22:53:23,,60
+61,CVE-2009-7216,Cisco IOS Buffer Overflow CVE-2022-20695,7,under investigation,2025-01-06T19:14:27,2024-11-23T09:08:24,61
+62,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,fixed,2024-01-14T23:57:17,2025-04-15T14:26:16,62
+63,CVE-2017-7877,Exposed public SMB share,6,under investigation,2024-01-21T06:44:20,,63
+64,CVE-2017-3601,Default admin credentials enabled,6,under investigation,2023-09-27T19:22:16,,64
+65,CVE-2022-30190,CVE-2022-30190 - Microsoft Follina RCE,8,fixed,2025-02-14T16:07:50,2025-07-16T15:08:43,65
+66,CVE-2025-1708,Apache HTTP Server Path Traversal (CVE-2021-41773),9,open,2024-01-05T06:52:52,,66
+67,CVE-2024-3528,Open Telnet port detected,5,fixed,2024-11-02T14:29:10,2025-04-30T15:49:38,67
+68,CVE-2004-7887,Unencrypted management interface,5,under investigation,2024-07-06T11:54:59,2024-07-31T19:18:28,68
+69,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,under investigation,2024-03-30T01:39:13,2025-05-31T18:24:38,69
+70,CVE-2019-4452,Outdated Samba version vulnerable to CVE-2017-7494,7,fixed,2024-12-23T02:46:46,2024-12-17T01:59:21,70
+71,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,fixed,2024-06-12T17:03:01,,71
+72,CVE-2022-30190,CVE-2022-30190 - Microsoft Follina RCE,8,open,2025-02-27T22:29:49,,72
+73,CVE-2015-4759,Apache HTTP Server Path Traversal (CVE-2021-41773),9,open,2024-04-21T05:33:26,,73
+74,CVE-2018-9449,Weak SNMP community strings,4,open,2024-02-12T11:07:14,,74
+75,CVE-2025-5687,Cisco IOS Buffer Overflow CVE-2022-20695,7,under investigation,2024-12-11T23:09:13,,75
+76,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,under investigation,2025-04-12T05:45:13,2025-05-10T15:50:10,76
+77,CVE-2021-28799,CVE-2021-28799 - Unauthenticated RCE in QNAP,9,under investigation,2023-08-22T18:42:57,,77
+78,CVE-2020-5628,Default admin credentials enabled,6,open,2023-11-26T04:57:11,,78
+79,CVE-2022-30190,CVE-2022-30190 - Microsoft Follina RCE,8,fixed,2024-10-06T06:38:06,2024-12-01T18:15:44,79
+80,CVE-2019-2909,Apache HTTP Server Path Traversal (CVE-2021-41773),9,under investigation,2024-01-16T08:59:46,,80
+81,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,under investigation,2025-06-16T21:40:32,,81
+82,CVE-2004-3835,Unencrypted management interface,5,fixed,2024-08-17T02:24:53,2024-08-31T19:00:35,82
+83,CVE-2006-6957,Unauthenticated printer web interface access,4,open,2025-02-13T04:38:28,,83
+84,CVE-2004-2519,Exposed public SMB share,6,fixed,2025-01-04T14:31:07,,84
+85,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,fixed,2023-09-25T20:44:12,2024-11-05T23:54:39,85
+86,CVE-2013-5643,Local privilege escalation via PrintNightmare,7,fixed,2023-07-30T08:16:30,,86
+87,CVE-2021-44228,CVE-2021-44228 - Log4Shell vulnerability,10,under investigation,2024-06-29T15:21:56,,87
+88,CVE-2015-3690,Open Telnet port detected,5,open,2024-03-16T21:25:21,,88
+89,CVE-2011-4431,Cisco IOS Buffer Overflow CVE-2022-20695,7,under investigation,2024-04-08T04:41:40,2025-05-22T17:07:41,89
+90,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,under investigation,2024-04-11T21:11:15,,90
+91,CVE-2021-28799,CVE-2021-28799 - Unauthenticated RCE in QNAP,9,fixed,2025-05-06T05:40:33,2025-02-22T10:24:43,91
+92,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,open,2025-06-10T04:41:53,2025-04-15T21:37:03,92
+93,CVE-2016-1288,Outdated Chrome vulnerable to CVE-2021-30551,6,open,2024-04-20T03:29:09,2024-07-22T07:10:03,93
+94,CVE-2017-5245,MySQL misconfiguration allows remote root login,7,open,2024-01-27T13:05:42,,94
+95,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,fixed,2024-01-12T20:58:18,,95
+96,CVE-2019-6855,Cisco IOS Buffer Overflow CVE-2022-20695,7,fixed,2025-04-05T03:22:21,2025-01-17T01:16:14,96
+97,CVE-2012-9414,Unauthenticated printer web interface access,4,open,2024-11-29T06:10:46,,97
+98,CVE-2011-7733,Exposed public SMB share,6,fixed,2023-09-15T06:08:09,,98
+99,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,fixed,2025-06-27T09:44:39,2024-07-29T12:15:28,99
+100,CVE-2015-5245,Outdated Chrome vulnerable to CVE-2021-30551,6,under investigation,2025-01-27T00:26:46,2024-08-21T18:42:17,100
+101,CVE-2019-7863,Apache HTTP Server Path Traversal (CVE-2021-41773),9,under investigation,2025-04-09T01:06:25,,101
+102,CVE-2003-2758,Open Telnet port detected,5,open,2025-01-19T15:24:46,,102
+103,CVE-2004-9831,Unencrypted management interface,5,under investigation,2024-04-07T15:03:23,,103
+104,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,under investigation,2023-10-05T05:07:24,,104
+105,CVE-2021-28799,CVE-2021-28799 - Unauthenticated RCE in QNAP,9,open,2024-12-25T00:27:58,,105
+106,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,under investigation,2024-10-28T01:56:28,,106
+107,CVE-2006-1516,Local privilege escalation via PrintNightmare,7,open,2024-07-10T10:05:18,,107
+108,CVE-2005-3399,Apache HTTP Server Path Traversal (CVE-2021-41773),9,open,2023-12-08T18:26:50,2024-09-01T15:10:51,108
+109,CVE-2022-1757,Open Telnet port detected,5,fixed,2024-01-08T23:34:55,2024-08-17T05:06:13,109
+110,CVE-2000-9094,Unencrypted management interface,5,fixed,2024-06-11T22:54:33,,110
+111,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,open,2025-03-11T15:03:46,2025-04-26T08:19:08,111
+112,CVE-2021-28799,CVE-2021-28799 - Unauthenticated RCE in QNAP,9,under investigation,2023-09-11T05:41:42,2025-06-12T21:39:09,112
+113,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,open,2025-02-24T15:11:01,2025-04-27T02:48:38,113
+114,CVE-2004-6896,Local privilege escalation via PrintNightmare,7,open,2024-12-13T11:01:10,2025-02-20T06:16:55,114
+115,CVE-2014-5341,Apache HTTP Server Path Traversal (CVE-2021-41773),9,fixed,2025-03-01T00:31:26,2024-09-06T16:21:44,115
+116,CVE-2018-9077,Open Telnet port detected,5,open,2024-10-03T06:26:02,2025-04-17T00:26:32,116
+117,CVE-2001-1867,Cisco IOS Buffer Overflow CVE-2022-20695,7,under investigation,2025-06-23T21:09:49,2024-09-22T20:11:45,117
+118,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,open,2023-10-29T22:54:09,,118
+119,CVE-2023-7056,Exposed public SMB share,6,open,2023-12-17T21:01:00,,119
+120,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,fixed,2024-04-20T07:47:08,,120
+121,CVE-2000-3803,Outdated Chrome vulnerable to CVE-2021-30551,6,under investigation,2025-05-28T09:17:49,2025-06-23T13:53:38,121
+122,CVE-2009-8254,Apache HTTP Server Path Traversal (CVE-2021-41773),9,fixed,2024-03-18T12:49:25,2025-02-06T17:12:34,122
+123,CVE-2021-5530,Weak SNMP community strings,4,fixed,2025-04-17T10:05:04,,123
+124,CVE-2021-6431,Cisco IOS Buffer Overflow CVE-2022-20695,7,open,2024-03-15T15:06:26,,124
+125,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,fixed,2024-02-16T19:55:37,,125
+126,CVE-2025-3830,Exposed public SMB share,6,open,2025-04-28T11:45:06,2024-08-09T07:43:12,126
+127,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,fixed,2024-05-02T08:13:25,2024-09-04T05:35:35,127
+128,CVE-2022-30190,CVE-2022-30190 - Microsoft Follina RCE,8,open,2025-03-15T08:37:07,,128
+129,CVE-2002-8333,Apache HTTP Server Path Traversal (CVE-2021-41773),9,fixed,2024-02-07T12:43:59,,129
+130,CVE-2018-8298,Weak SNMP community strings,4,under investigation,2023-11-17T16:47:30,,130
+131,CVE-2025-5824,Cisco IOS Buffer Overflow CVE-2022-20695,7,open,2025-03-24T11:23:36,,131
+132,CVE-2004-5925,Unauthenticated printer web interface access,4,open,2024-03-06T16:29:53,,132
+133,CVE-2011-7364,Outdated Samba version vulnerable to CVE-2017-7494,7,under investigation,2025-01-01T05:05:47,2024-12-03T14:31:47,133
+134,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,open,2024-10-24T19:35:55,,134
+135,CVE-2022-30190,CVE-2022-30190 - Microsoft Follina RCE,8,open,2025-05-04T17:55:22,,135
+136,CVE-2019-5766,MySQL misconfiguration allows remote root login,7,under investigation,2025-04-25T01:26:26,,136
+137,CVE-2006-9192,Open Telnet port detected,5,fixed,2024-09-18T14:02:47,2024-11-13T11:05:51,137
+138,CVE-2006-4599,Cisco IOS Buffer Overflow CVE-2022-20695,7,under investigation,2024-04-02T12:25:45,2024-10-31T04:28:42,138
+139,CVE-2013-9048,Unauthenticated printer web interface access,4,under investigation,2025-06-13T15:46:34,2025-05-11T07:18:32,139
+140,CVE-2021-28799,CVE-2021-28799 - Unauthenticated RCE in QNAP,9,under investigation,2025-05-27T12:11:41,,140
+141,CVE-2025-9945,Default admin credentials enabled,6,under investigation,2024-02-07T09:20:29,,141
+142,CVE-2002-5048,Outdated Chrome vulnerable to CVE-2021-30551,6,fixed,2025-03-14T15:34:05,2025-03-21T13:12:05,142
+143,CVE-2021-44228,CVE-2021-44228 - Log4Shell vulnerability,10,under investigation,2025-03-03T10:51:04,2025-01-17T18:20:54,143
+144,CVE-2003-9509,Weak SNMP community strings,4,open,2024-09-04T09:49:15,,144
+145,CVE-2003-5510,Cisco IOS Buffer Overflow CVE-2022-20695,7,open,2024-01-03T15:46:45,,145
+146,CVE-2008-4837,Unauthenticated printer web interface access,4,open,2025-03-10T12:15:09,,146
+147,CVE-2020-7426,Outdated Samba version vulnerable to CVE-2017-7494,7,open,2025-03-14T23:54:39,,147
+148,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,open,2024-01-02T09:32:01,,148
+149,CVE-2001-9722,Outdated Chrome vulnerable to CVE-2021-30551,6,fixed,2024-08-15T17:11:31,2025-02-11T17:19:08,149
+150,CVE-2021-44228,CVE-2021-44228 - Log4Shell vulnerability,10,under investigation,2023-08-24T13:00:24,2025-02-20T11:06:43,150
+151,CVE-2022-9642,Weak SNMP community strings,4,fixed,2023-07-26T01:29:35,,151
+152,CVE-2011-2443,Cisco IOS Buffer Overflow CVE-2022-20695,7,open,2024-06-14T17:31:46,2024-09-30T17:03:22,152
+153,CVE-2013-9523,Unauthenticated printer web interface access,4,under investigation,2024-11-01T08:52:47,2025-05-06T21:34:27,153
+154,CVE-2021-9047,Outdated Samba version vulnerable to CVE-2017-7494,7,open,2024-08-16T03:58:49,,154
+155,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,open,2024-11-20T12:58:56,,155
+156,CVE-2012-2522,Local privilege escalation via PrintNightmare,7,fixed,2023-09-29T18:41:20,2024-09-03T01:57:49,156
+157,CVE-2021-44228,CVE-2021-44228 - Log4Shell vulnerability,10,under investigation,2024-01-17T18:59:34,,157
+158,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,fixed,2023-10-04T00:46:06,,158
+159,CVE-2022-6618,Cisco IOS Buffer Overflow CVE-2022-20695,7,open,2024-10-28T06:08:23,,159
+160,CVE-2005-5298,Unauthenticated printer web interface access,4,open,2025-01-24T13:17:01,2025-02-10T11:09:40,160
+161,CVE-2009-6394,Outdated Samba version vulnerable to CVE-2017-7494,7,under investigation,2024-05-25T09:14:56,,161
+162,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,open,2024-03-29T15:03:43,,162
+163,CVE-2018-4194,Local privilege escalation via PrintNightmare,7,fixed,2024-05-08T21:52:46,,163
+164,CVE-2021-44228,CVE-2021-44228 - Log4Shell vulnerability,10,fixed,2024-01-06T23:19:08,2025-06-07T23:31:29,164
+165,CVE-2018-9534,Weak SNMP community strings,4,under investigation,2025-01-22T22:25:12,2025-06-16T05:08:05,165
+166,CVE-2003-9813,Cisco IOS Buffer Overflow CVE-2022-20695,7,open,2025-06-14T23:46:09,2024-12-23T06:00:26,166
+167,CVE-2002-1538,Unauthenticated printer web interface access,4,under investigation,2023-08-09T10:06:51,,167
+168,CVE-2021-28799,CVE-2021-28799 - Unauthenticated RCE in QNAP,9,fixed,2024-10-02T00:38:43,,168
+169,CVE-2009-6295,Default admin credentials enabled,6,fixed,2025-01-24T11:58:53,,169
+170,CVE-2022-30190,CVE-2022-30190 - Microsoft Follina RCE,8,open,2025-07-04T21:15:11,,170
+171,CVE-2016-7408,MySQL misconfiguration allows remote root login,7,fixed,2025-05-27T18:02:04,2024-08-18T02:58:13,171
+172,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,open,2023-11-24T21:14:11,,172
+173,CVE-2025-6184,Cisco IOS Buffer Overflow CVE-2022-20695,7,open,2024-04-25T17:29:33,,173
+174,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,fixed,2024-04-16T11:31:41,,174
+175,CVE-2021-28799,CVE-2021-28799 - Unauthenticated RCE in QNAP,9,fixed,2025-01-04T22:49:40,,175
+176,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,fixed,2024-12-14T10:22:49,,176
+177,CVE-2001-9291,Local privilege escalation via PrintNightmare,7,open,2024-02-18T07:55:55,2024-11-28T19:17:39,177
+178,CVE-2021-44228,CVE-2021-44228 - Log4Shell vulnerability,10,under investigation,2024-06-10T06:13:04,2025-07-04T10:31:56,178
+179,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,fixed,2024-01-14T00:19:23,,179
+180,CVE-2017-4980,Unencrypted management interface,5,open,2025-06-25T22:20:51,,180
+181,CVE-2020-5973,Unauthenticated printer web interface access,4,under investigation,2024-05-25T00:39:59,,181
+182,CVE-2016-9976,Outdated Samba version vulnerable to CVE-2017-7494,7,under investigation,2025-02-19T15:15:26,,182
+183,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,under investigation,2025-05-17T06:30:09,,183
+184,CVE-2003-7836,Outdated Chrome vulnerable to CVE-2021-30551,6,open,2024-08-31T06:19:36,2024-09-21T09:57:24,184
+185,CVE-2000-8126,MySQL misconfiguration allows remote root login,7,under investigation,2024-07-15T00:25:39,,185
+186,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,under investigation,2025-03-21T12:08:30,,186
+187,CVE-2020-8338,Cisco IOS Buffer Overflow CVE-2022-20695,7,fixed,2023-07-21T19:22:12,,187
+188,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,fixed,2023-10-15T06:05:01,,188
+189,CVE-2009-9838,Exposed public SMB share,6,open,2023-08-13T08:43:08,2024-08-13T02:29:13,189
+190,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,open,2023-11-19T07:51:29,2024-11-02T11:24:18,190
+191,CVE-2000-8622,Local privilege escalation via PrintNightmare,7,under investigation,2024-02-09T17:57:24,2024-07-26T14:40:41,191
+192,CVE-2025-2966,MySQL misconfiguration allows remote root login,7,fixed,2024-02-05T08:14:07,2025-02-03T21:40:10,192
+193,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,open,2024-01-10T18:53:58,2024-10-06T03:09:03,193
+194,CVE-2017-7627,Cisco IOS Buffer Overflow CVE-2022-20695,7,open,2024-11-10T19:42:55,,194
+195,CVE-2002-9609,Unauthenticated printer web interface access,4,fixed,2025-01-19T12:19:49,2024-09-26T19:07:12,195
+196,CVE-2021-28799,CVE-2021-28799 - Unauthenticated RCE in QNAP,9,open,2025-05-18T02:56:47,,196
+197,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,under investigation,2025-06-09T13:32:07,2025-02-01T18:08:03,197
+198,CVE-2016-9842,Outdated Chrome vulnerable to CVE-2021-30551,6,fixed,2025-04-17T12:04:29,,198
+199,CVE-2012-7457,Apache HTTP Server Path Traversal (CVE-2021-41773),9,under investigation,2024-04-24T16:35:52,,199
+200,CVE-2017-5426,Weak SNMP community strings,4,fixed,2025-06-21T20:17:30,2024-12-25T08:03:28,200
+201,CVE-2001-1862,Unencrypted management interface,5,open,2025-01-27T13:56:07,,201
+202,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,under investigation,2024-04-18T07:16:12,2025-04-30T22:41:08,202
+203,CVE-2018-1739,Exposed public SMB share,6,open,2024-02-22T19:36:46,2024-10-03T21:21:01,203
+204,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,open,2023-11-27T00:36:00,,204
+205,CVE-2023-7486,Local privilege escalation via PrintNightmare,7,open,2024-02-20T21:05:43,2025-01-26T15:37:39,205
+206,CVE-2025-2926,Apache HTTP Server Path Traversal (CVE-2021-41773),9,fixed,2025-07-08T09:04:19,,206
+207,CVE-2014-3274,Open Telnet port detected,5,under investigation,2024-06-14T12:44:42,,207
+208,CVE-2011-8836,Cisco IOS Buffer Overflow CVE-2022-20695,7,open,2024-11-28T14:40:09,,208
+209,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,under investigation,2024-08-10T13:30:06,,209
+210,CVE-2007-4129,Exposed public SMB share,6,fixed,2025-06-11T07:09:20,,210
+211,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,fixed,2024-12-06T05:50:15,,211
+212,CVE-2010-4082,Outdated Chrome vulnerable to CVE-2021-30551,6,fixed,2023-09-02T17:30:53,,212
+213,CVE-2021-44228,CVE-2021-44228 - Log4Shell vulnerability,10,under investigation,2024-11-15T11:17:53,,213
+214,CVE-2017-4457,Weak SNMP community strings,4,fixed,2025-02-22T08:19:05,2024-08-25T14:09:45,214
+215,CVE-2014-7055,Unencrypted management interface,5,under investigation,2024-01-27T14:50:30,,215
+216,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,under investigation,2024-04-24T21:00:16,,216
+217,CVE-2013-2340,Outdated Samba version vulnerable to CVE-2017-7494,7,open,2024-10-23T02:54:21,2025-01-28T01:12:40,217
+218,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,fixed,2024-04-30T13:32:29,,218
+219,CVE-2000-1608,Outdated Chrome vulnerable to CVE-2021-30551,6,open,2024-11-23T18:13:42,,219
+220,CVE-2021-44228,CVE-2021-44228 - Log4Shell vulnerability,10,under investigation,2025-04-08T05:31:40,,220
+221,CVE-2013-5977,Weak SNMP community strings,4,open,2023-11-14T19:35:47,,221
+222,CVE-2017-6788,Unencrypted management interface,5,fixed,2025-02-01T05:13:21,2025-02-10T18:27:44,222
+223,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,open,2025-03-21T14:19:48,2024-09-07T05:25:49,223
+224,CVE-2016-3143,Exposed public SMB share,6,fixed,2023-09-02T22:10:16,,224
+225,CVE-2019-9127,Default admin credentials enabled,6,open,2025-04-25T02:17:44,,225
+226,CVE-2016-1807,Local privilege escalation via PrintNightmare,7,under investigation,2024-07-22T23:42:34,2025-06-12T21:04:50,226
+227,CVE-2006-4578,MySQL misconfiguration allows remote root login,7,open,2023-11-12T00:51:33,2025-07-19T00:21:05,227
+228,CVE-2020-9574,Open Telnet port detected,5,open,2025-01-16T15:03:17,2024-11-06T11:03:53,228
+229,CVE-2012-6461,Unencrypted management interface,5,fixed,2024-12-26T08:56:50,,229
+230,CVE-2023-7594,Unauthenticated printer web interface access,4,under investigation,2025-07-05T17:10:46,2025-02-16T22:33:59,230
+231,CVE-2023-8991,Exposed public SMB share,6,fixed,2024-05-23T00:55:46,2024-07-28T01:51:52,231
+232,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,under investigation,2024-08-20T21:44:28,,232
+233,CVE-2009-1688,Outdated Chrome vulnerable to CVE-2021-30551,6,under investigation,2025-06-05T04:29:17,,233
+234,CVE-2008-5215,Apache HTTP Server Path Traversal (CVE-2021-41773),9,open,2025-04-12T15:50:30,,234
+235,CVE-2009-5413,Open Telnet port detected,5,under investigation,2023-08-01T08:30:45,2025-04-12T09:40:01,235
+236,CVE-2007-8731,Cisco IOS Buffer Overflow CVE-2022-20695,7,fixed,2023-11-21T07:05:43,,236
+237,CVE-2015-7402,Unauthenticated printer web interface access,4,open,2025-05-12T05:08:21,,237
+238,CVE-2005-7552,Exposed public SMB share,6,under investigation,2023-10-10T22:54:48,,238
+239,CVE-2011-4076,Default admin credentials enabled,6,under investigation,2023-09-13T07:53:25,2025-06-06T03:12:02,239
+240,CVE-2008-4556,Outdated Chrome vulnerable to CVE-2021-30551,6,fixed,2024-11-05T12:11:58,2025-01-03T22:21:13,240
+241,CVE-2009-7915,MySQL misconfiguration allows remote root login,7,fixed,2025-04-19T02:49:13,,241
+242,CVE-2000-6694,Open Telnet port detected,5,fixed,2025-05-30T04:42:04,2024-08-05T18:57:28,242
+243,CVE-2012-5436,Cisco IOS Buffer Overflow CVE-2022-20695,7,under investigation,2024-02-24T20:16:43,2025-06-16T13:52:24,243
+244,CVE-2020-5637,Unauthenticated printer web interface access,4,fixed,2024-09-29T17:41:57,2025-07-01T21:34:25,244
+245,CVE-2008-5799,Outdated Samba version vulnerable to CVE-2017-7494,7,open,2025-03-09T23:20:27,,245
+246,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,under investigation,2025-06-18T04:44:56,2024-10-17T18:17:06,246
+247,CVE-2022-30190,CVE-2022-30190 - Microsoft Follina RCE,8,fixed,2024-04-19T18:39:36,,247
+248,CVE-2000-5654,Apache HTTP Server Path Traversal (CVE-2021-41773),9,open,2024-05-24T13:47:50,2025-03-23T03:04:30,248
+249,CVE-2022-2745,Open Telnet port detected,5,under investigation,2024-03-09T11:18:39,2025-03-29T18:57:23,249
+250,CVE-2021-8529,Cisco IOS Buffer Overflow CVE-2022-20695,7,open,2024-06-18T18:14:51,2024-11-08T10:07:26,250
+251,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,fixed,2025-07-11T19:58:14,,251
+252,CVE-2013-5304,Exposed public SMB share,6,under investigation,2025-03-24T14:26:09,2024-12-01T05:15:28,252
+253,CVE-2001-7554,Default admin credentials enabled,6,fixed,2023-10-28T04:19:00,,253
+254,CVE-2006-3385,Outdated Chrome vulnerable to CVE-2021-30551,6,open,2025-06-23T09:11:07,2025-07-15T21:22:12,254
+255,CVE-2016-8682,Apache HTTP Server Path Traversal (CVE-2021-41773),9,fixed,2023-09-27T05:10:45,2024-09-05T18:28:51,255
+256,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,fixed,2024-08-12T01:51:24,,256
+257,CVE-2008-9660,Unencrypted management interface,5,open,2024-06-16T14:20:16,,257
+258,CVE-2023-5373,Unauthenticated printer web interface access,4,open,2024-04-15T09:09:58,,258
+259,CVE-2023-9665,Exposed public SMB share,6,fixed,2024-12-31T01:19:03,2025-02-08T15:32:39,259
+260,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,open,2024-09-29T13:03:40,,260
+261,CVE-2024-4055,Outdated Chrome vulnerable to CVE-2021-30551,6,under investigation,2025-06-28T00:34:49,,261
+262,CVE-2021-4777,MySQL misconfiguration allows remote root login,7,open,2024-05-09T15:32:50,,262
+263,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,under investigation,2025-01-29T15:10:51,2025-05-30T13:22:35,263
+264,CVE-2011-8203,Cisco IOS Buffer Overflow CVE-2022-20695,7,fixed,2023-11-11T06:01:47,2024-12-04T02:07:03,264
+265,CVE-2010-5137,Unauthenticated printer web interface access,4,under investigation,2024-01-04T05:41:45,,265
+266,CVE-2022-6448,Outdated Samba version vulnerable to CVE-2017-7494,7,open,2024-01-23T17:31:06,2025-05-08T19:20:01,266
+267,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,under investigation,2024-05-29T01:56:55,,267
+268,CVE-2011-3683,Local privilege escalation via PrintNightmare,7,under investigation,2025-05-01T09:46:45,2024-09-04T12:03:46,268
+269,CVE-2009-6603,Apache HTTP Server Path Traversal (CVE-2021-41773),9,fixed,2024-06-19T02:55:39,2025-01-20T09:45:19,269
+270,CVE-2014-9858,Weak SNMP community strings,4,fixed,2024-01-25T18:46:58,2024-08-25T20:55:59,270
+271,CVE-2003-9011,Unencrypted management interface,5,fixed,2023-07-23T04:48:45,,271
+272,CVE-2019-2000,Unauthenticated printer web interface access,4,under investigation,2025-02-12T21:23:03,,272
+273,CVE-2019-7229,Outdated Samba version vulnerable to CVE-2017-7494,7,open,2024-01-27T18:33:20,,273
+274,CVE-2022-3342,Default admin credentials enabled,6,under investigation,2023-09-05T12:12:54,2025-07-10T05:05:36,274
+275,CVE-2022-30190,CVE-2022-30190 - Microsoft Follina RCE,8,open,2024-12-10T00:06:02,,275
+276,CVE-2013-6828,MySQL misconfiguration allows remote root login,7,fixed,2023-08-12T14:54:41,,276
+277,CVE-2000-1960,Weak SNMP community strings,4,under investigation,2025-06-13T14:37:24,,277
+278,CVE-2019-4850,Unencrypted management interface,5,fixed,2024-07-05T04:59:20,,278
+279,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,fixed,2024-01-24T20:42:33,,279
+280,CVE-2022-7780,Outdated Samba version vulnerable to CVE-2017-7494,7,open,2024-06-29T20:41:58,2025-06-14T14:08:28,280
+281,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,under investigation,2024-09-28T10:01:23,2024-08-30T14:15:51,281
+282,CVE-2022-30190,CVE-2022-30190 - Microsoft Follina RCE,8,under investigation,2024-07-14T06:11:37,2025-01-11T05:47:31,282
+283,CVE-2011-5921,Apache HTTP Server Path Traversal (CVE-2021-41773),9,fixed,2025-02-10T21:42:19,2025-05-19T20:23:53,283
+284,CVE-2015-5004,Open Telnet port detected,5,under investigation,2024-12-28T06:42:42,2024-07-19T21:01:42,284
+285,CVE-2009-6565,Unencrypted management interface,5,open,2023-12-30T04:07:46,2025-06-16T07:22:37,285
+286,CVE-2024-9846,Unauthenticated printer web interface access,4,open,2023-12-11T16:28:26,,286
+287,CVE-2000-1798,Outdated Samba version vulnerable to CVE-2017-7494,7,open,2025-05-12T18:15:07,,287
+288,CVE-2007-8188,Default admin credentials enabled,6,fixed,2024-03-19T02:33:52,2025-06-08T00:25:37,288
+289,CVE-2016-4213,Local privilege escalation via PrintNightmare,7,under investigation,2025-03-17T12:44:12,2024-11-06T03:44:46,289
+290,CVE-2008-9044,Apache HTTP Server Path Traversal (CVE-2021-41773),9,open,2025-01-18T16:37:15,,290
+291,CVE-2009-9752,Weak SNMP community strings,4,open,2025-04-18T06:45:19,,291
+292,CVE-2023-8208,Unencrypted management interface,5,open,2025-05-30T20:35:26,2024-12-16T04:50:58,292
+293,CVE-2015-9444,Unauthenticated printer web interface access,4,fixed,2024-09-02T12:45:38,2025-01-07T15:44:58,293
+294,CVE-2021-28799,CVE-2021-28799 - Unauthenticated RCE in QNAP,9,fixed,2023-09-03T08:27:44,2025-07-03T07:42:04,294
+295,CVE-2018-4714,Default admin credentials enabled,6,open,2023-07-30T15:22:43,,295
+296,CVE-2012-2875,Outdated Chrome vulnerable to CVE-2021-30551,6,under investigation,2023-09-05T15:23:06,,296
+297,CVE-2005-6377,Apache HTTP Server Path Traversal (CVE-2021-41773),9,under investigation,2023-09-23T19:24:41,,297
+298,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,under investigation,2025-06-24T01:06:59,2025-03-13T18:02:38,298
+299,CVE-2019-5504,Cisco IOS Buffer Overflow CVE-2022-20695,7,fixed,2025-06-17T06:13:41,2025-05-16T19:48:53,299
+300,CVE-2005-3000,Unauthenticated printer web interface access,4,fixed,2024-06-11T17:59:36,2025-07-07T21:08:36,300
+301,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,fixed,2024-08-14T08:38:15,,1
+302,CVE-2022-30190,CVE-2022-30190 - Microsoft Follina RCE,8,open,2024-08-30T01:17:46,,2
+303,CVE-2021-44228,CVE-2021-44228 - Log4Shell vulnerability,10,under investigation,2025-04-22T13:04:32,2025-05-25T05:09:01,3
+304,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,open,2024-03-16T00:26:36,,4
+305,CVE-2010-9042,Unencrypted management interface,5,open,2023-12-22T21:24:04,2024-08-11T15:55:01,5
+306,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,under investigation,2025-07-15T08:39:37,,6
+307,CVE-2001-7361,Outdated Samba version vulnerable to CVE-2017-7494,7,fixed,2024-08-09T13:16:36,,7
+308,CVE-2000-9440,Default admin credentials enabled,6,fixed,2023-11-06T17:57:06,,8
+309,CVE-2022-30190,CVE-2022-30190 - Microsoft Follina RCE,8,under investigation,2025-03-25T11:43:20,,9
+310,CVE-2006-9755,MySQL misconfiguration allows remote root login,7,under investigation,2024-06-03T23:13:10,2024-09-25T20:30:58,10
+311,CVE-2000-3931,Open Telnet port detected,5,under investigation,2025-04-20T11:56:57,2025-05-22T16:10:18,11
+312,CVE-2024-7857,Cisco IOS Buffer Overflow CVE-2022-20695,7,under investigation,2025-02-06T02:15:55,,12
+313,CVE-2020-6217,Unauthenticated printer web interface access,4,open,2024-10-24T11:27:07,2025-03-02T10:05:38,13
+314,CVE-2021-28799,CVE-2021-28799 - Unauthenticated RCE in QNAP,9,under investigation,2024-10-26T09:48:03,2025-04-27T04:22:51,14
+315,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,under investigation,2025-03-14T05:32:26,,15
+316,CVE-2014-9518,Local privilege escalation via PrintNightmare,7,under investigation,2024-08-06T08:13:03,2024-08-19T11:24:54,16
+317,CVE-2016-8768,MySQL misconfiguration allows remote root login,7,under investigation,2023-09-18T02:28:52,,17
+318,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,fixed,2023-09-27T17:29:22,2025-01-11T10:25:35,18
+319,CVE-2014-2123,Cisco IOS Buffer Overflow CVE-2022-20695,7,fixed,2025-04-03T17:01:55,2025-07-19T09:34:50,19
+320,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,under investigation,2023-11-15T22:41:50,2024-12-13T10:22:04,20
+321,CVE-2016-8246,Exposed public SMB share,6,open,2025-01-10T19:40:07,,21
+322,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,open,2023-10-15T04:54:25,,22
+323,CVE-2013-1129,Outdated Chrome vulnerable to CVE-2021-30551,6,under investigation,2024-02-21T08:09:37,,23
+324,CVE-2011-8449,Apache HTTP Server Path Traversal (CVE-2021-41773),9,fixed,2024-03-12T08:14:44,,24
+325,CVE-2001-8037,Open Telnet port detected,5,under investigation,2024-07-07T21:37:05,,25
+326,CVE-2000-8167,Unencrypted management interface,5,fixed,2024-09-29T23:33:05,,26
+327,CVE-2019-8926,Unauthenticated printer web interface access,4,open,2023-11-25T10:15:23,2025-06-24T21:48:15,27
+328,CVE-2021-28799,CVE-2021-28799 - Unauthenticated RCE in QNAP,9,under investigation,2024-07-23T22:50:29,,28
+329,CVE-2019-3243,Default admin credentials enabled,6,open,2024-06-17T17:30:28,2024-09-09T04:35:16,29
+330,CVE-2020-5309,Outdated Chrome vulnerable to CVE-2021-30551,6,open,2024-09-14T12:08:07,2025-01-24T02:27:05,30
+331,CVE-2008-7880,Apache HTTP Server Path Traversal (CVE-2021-41773),9,open,2025-04-07T07:35:02,2025-05-19T00:11:07,31
+332,CVE-2015-2689,Open Telnet port detected,5,open,2024-07-19T11:56:37,,32
+333,CVE-2015-3908,Cisco IOS Buffer Overflow CVE-2022-20695,7,open,2023-12-11T03:49:58,,33
+334,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,fixed,2024-09-23T23:04:52,,34
+335,CVE-2007-2436,Exposed public SMB share,6,fixed,2024-10-01T05:00:23,2024-08-02T03:09:58,35
+336,CVE-2019-9275,Default admin credentials enabled,6,under investigation,2024-12-06T04:11:21,,36
+337,CVE-2021-9705,Local privilege escalation via PrintNightmare,7,fixed,2024-07-02T07:01:39,,37
+338,CVE-2025-2033,MySQL misconfiguration allows remote root login,7,fixed,2023-10-19T12:22:32,2024-10-31T09:04:23,38
+339,CVE-2016-5826,Open Telnet port detected,5,open,2025-07-01T21:47:20,2024-10-03T12:05:04,39
+340,CVE-2021-9968,Cisco IOS Buffer Overflow CVE-2022-20695,7,fixed,2025-04-30T04:52:26,2025-06-22T20:37:15,40
+341,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,under investigation,2024-12-15T11:36:48,,41
+342,CVE-2002-4723,Exposed public SMB share,6,open,2024-05-16T05:33:22,,42
+343,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,open,2025-05-30T10:58:38,,43
+344,CVE-2014-9066,Outdated Chrome vulnerable to CVE-2021-30551,6,fixed,2023-08-03T07:40:22,,44
+345,CVE-2020-7204,Apache HTTP Server Path Traversal (CVE-2021-41773),9,fixed,2023-12-11T13:22:24,2025-03-31T14:48:10,45
+346,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,under investigation,2024-11-06T17:02:35,2024-10-21T04:38:00,46
+347,CVE-2023-8800,Unencrypted management interface,5,under investigation,2024-10-31T16:49:19,2025-02-26T13:58:16,47
+348,CVE-2018-8855,Unauthenticated printer web interface access,4,under investigation,2025-04-06T14:19:14,2025-05-02T18:47:08,48
+349,CVE-2006-4029,Outdated Samba version vulnerable to CVE-2017-7494,7,fixed,2024-03-10T00:24:09,2024-09-11T03:23:10,49
+350,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,open,2023-10-04T21:07:32,,50
+351,CVE-2017-3262,Local privilege escalation via PrintNightmare,7,fixed,2025-05-15T17:55:25,2024-10-24T20:04:03,51
+352,CVE-2015-3848,MySQL misconfiguration allows remote root login,7,under investigation,2024-04-19T21:44:25,2025-02-09T08:02:08,52
+353,CVE-2023-9893,Weak SNMP community strings,4,under investigation,2023-10-04T19:25:13,2025-03-01T04:50:04,53
+354,CVE-2013-6461,Cisco IOS Buffer Overflow CVE-2022-20695,7,fixed,2024-12-09T00:45:48,,54
+355,CVE-2003-8889,Unauthenticated printer web interface access,4,under investigation,2024-08-22T07:36:33,,55
+356,CVE-2004-1019,Outdated Samba version vulnerable to CVE-2017-7494,7,under investigation,2024-12-03T01:29:33,,56
+357,CVE-2019-5143,Default admin credentials enabled,6,fixed,2023-10-25T22:55:53,,57
+358,CVE-2014-2402,Local privilege escalation via PrintNightmare,7,under investigation,2023-09-02T22:23:19,,58
+359,CVE-2025-1315,Apache HTTP Server Path Traversal (CVE-2021-41773),9,under investigation,2024-12-04T07:32:33,2025-05-09T04:48:59,59
+360,CVE-2005-3631,Weak SNMP community strings,4,under investigation,2025-04-02T23:41:41,,60
+361,CVE-2024-3549,Cisco IOS Buffer Overflow CVE-2022-20695,7,fixed,2024-08-05T07:46:45,2024-08-10T02:51:15,61
+362,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,fixed,2024-04-03T21:10:25,2025-03-27T07:33:55,62
+363,CVE-2021-28799,CVE-2021-28799 - Unauthenticated RCE in QNAP,9,fixed,2024-11-11T07:48:03,2024-12-24T16:53:14,63
+364,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,open,2024-12-06T13:07:42,2025-03-20T06:39:37,64
+365,CVE-2009-1385,Outdated Chrome vulnerable to CVE-2021-30551,6,under investigation,2024-10-03T22:02:54,2024-09-12T05:17:16,65
+366,CVE-2001-5261,Apache HTTP Server Path Traversal (CVE-2021-41773),9,under investigation,2024-04-27T03:50:07,,66
+367,CVE-2020-6723,Weak SNMP community strings,4,open,2024-08-20T23:21:31,,67
+368,CVE-2014-2705,Unencrypted management interface,5,fixed,2024-03-05T09:43:55,2025-01-17T05:35:32,68
+369,CVE-2016-8571,Unauthenticated printer web interface access,4,under investigation,2024-07-03T21:43:25,2025-02-12T03:13:44,69
+370,CVE-2003-6824,Exposed public SMB share,6,open,2023-09-04T13:35:49,,70
+371,CVE-2008-2044,Default admin credentials enabled,6,fixed,2024-11-21T07:09:06,,71
+372,CVE-2000-4758,Outdated Chrome vulnerable to CVE-2021-30551,6,under investigation,2023-08-26T03:14:19,2025-04-04T17:07:22,72
+373,CVE-2024-7239,MySQL misconfiguration allows remote root login,7,open,2025-05-17T03:52:05,,73
+374,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,open,2024-05-31T16:43:47,,74
+375,CVE-2022-6847,Unencrypted management interface,5,open,2025-06-24T01:38:03,2025-02-18T10:19:05,75
+376,CVE-2010-7587,Unauthenticated printer web interface access,4,under investigation,2023-11-22T20:16:29,,76
+377,CVE-2013-3342,Outdated Samba version vulnerable to CVE-2017-7494,7,open,2023-11-05T03:38:23,2024-12-02T11:21:29,77
+378,CVE-2022-6098,Default admin credentials enabled,6,fixed,2023-08-24T01:51:06,2025-07-14T01:32:10,78
+379,CVE-2017-4001,Local privilege escalation via PrintNightmare,7,fixed,2023-12-18T03:39:44,,79
+380,CVE-2023-2573,Apache HTTP Server Path Traversal (CVE-2021-41773),9,under investigation,2023-12-08T22:24:39,2025-07-07T21:22:26,80
+381,CVE-2016-9149,Open Telnet port detected,5,fixed,2024-05-10T14:54:57,,81
+382,CVE-2024-5878,Cisco IOS Buffer Overflow CVE-2022-20695,7,fixed,2024-04-03T13:59:46,2025-06-15T08:12:29,82
+383,CVE-2019-8970,Unauthenticated printer web interface access,4,open,2024-10-24T10:55:12,2025-06-01T19:24:21,83
+384,CVE-2001-2705,Outdated Samba version vulnerable to CVE-2017-7494,7,open,2025-04-01T20:06:37,2025-05-10T00:30:08,84
+385,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,under investigation,2024-12-11T07:31:30,,85
+386,CVE-2022-30190,CVE-2022-30190 - Microsoft Follina RCE,8,fixed,2024-11-22T04:26:21,,86
+387,CVE-2013-1731,MySQL misconfiguration allows remote root login,7,fixed,2023-08-02T18:16:18,,87
+388,CVE-2012-1031,Open Telnet port detected,5,fixed,2024-12-23T17:58:34,2024-11-01T13:10:26,88
+389,CVE-2004-4852,Cisco IOS Buffer Overflow CVE-2022-20695,7,fixed,2024-01-05T05:17:50,2024-08-21T19:35:49,89
+390,CVE-2011-4108,Unauthenticated printer web interface access,4,fixed,2025-03-15T20:14:19,2024-08-29T04:05:49,90
+391,CVE-2011-5735,Outdated Samba version vulnerable to CVE-2017-7494,7,fixed,2024-01-08T05:59:00,2024-08-05T01:30:46,91
+392,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,under investigation,2023-11-05T10:48:06,2025-07-11T09:26:50,92
+393,CVE-2022-30190,CVE-2022-30190 - Microsoft Follina RCE,8,under investigation,2023-10-25T22:19:01,,93
+394,CVE-2021-44228,CVE-2021-44228 - Log4Shell vulnerability,10,fixed,2024-03-29T13:35:51,2024-09-12T18:52:45,94
+395,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,open,2024-09-01T01:19:56,,95
+396,CVE-2022-3802,Cisco IOS Buffer Overflow CVE-2022-20695,7,under investigation,2025-03-10T19:51:43,,96
+397,CVE-2024-4121,Unauthenticated printer web interface access,4,fixed,2023-10-11T20:42:05,2024-12-19T10:16:11,97
+398,CVE-2021-28799,CVE-2021-28799 - Unauthenticated RCE in QNAP,9,open,2024-08-09T06:29:31,,98
+399,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,under investigation,2025-06-19T22:19:42,,99
+400,CVE-2022-30190,CVE-2022-30190 - Microsoft Follina RCE,8,under investigation,2024-11-22T03:32:22,2025-05-01T06:51:08,100
+401,CVE-2010-7059,Apache HTTP Server Path Traversal (CVE-2021-41773),9,fixed,2025-03-18T20:45:30,,101
+402,CVE-2014-1348,Weak SNMP community strings,4,fixed,2025-04-18T05:22:47,2024-12-28T08:44:28,102
+403,CVE-2023-5549,Unencrypted management interface,5,under investigation,2024-12-23T18:38:34,,103
+404,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,fixed,2024-03-14T10:40:06,,104
+405,CVE-2021-28799,CVE-2021-28799 - Unauthenticated RCE in QNAP,9,under investigation,2023-12-27T02:40:21,2025-01-10T00:47:42,105
+406,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,under investigation,2025-05-22T21:53:12,2024-10-11T16:54:25,106
+407,CVE-2022-30190,CVE-2022-30190 - Microsoft Follina RCE,8,under investigation,2024-10-09T04:00:15,,107
+408,CVE-2015-9818,Apache HTTP Server Path Traversal (CVE-2021-41773),9,open,2025-04-13T21:33:13,,108
+409,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,under investigation,2025-02-13T00:52:39,,109
+410,CVE-2015-1929,Cisco IOS Buffer Overflow CVE-2022-20695,7,fixed,2024-01-09T12:33:30,,110
+411,CVE-2014-5428,Unauthenticated printer web interface access,4,under investigation,2023-10-24T13:28:12,2024-12-03T03:16:35,111
+412,CVE-2021-28799,CVE-2021-28799 - Unauthenticated RCE in QNAP,9,under investigation,2025-03-16T23:12:47,,112
+413,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,under investigation,2024-01-03T10:53:05,2024-08-03T13:42:37,113
+414,CVE-2001-1901,Outdated Chrome vulnerable to CVE-2021-30551,6,fixed,2023-07-22T09:10:44,2025-06-22T09:53:11,114
+415,CVE-2021-44228,CVE-2021-44228 - Log4Shell vulnerability,10,open,2024-03-31T04:06:41,2024-09-08T07:20:39,115
+416,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,under investigation,2024-12-21T21:15:08,2025-06-04T23:41:32,116
+417,CVE-2012-2278,Unencrypted management interface,5,fixed,2024-11-08T15:54:46,2024-09-17T16:00:33,117
+418,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,fixed,2025-06-12T09:56:04,,118
+419,CVE-2008-5908,Exposed public SMB share,6,fixed,2025-02-22T20:17:21,,119
+420,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,under investigation,2024-08-18T07:34:21,,120
+421,CVE-2002-7343,Local privilege escalation via PrintNightmare,7,fixed,2024-12-02T08:02:56,2024-09-11T17:17:32,121
+422,CVE-2016-2353,MySQL misconfiguration allows remote root login,7,open,2025-05-26T21:05:50,2025-05-27T12:59:47,122
+423,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,under investigation,2024-05-04T12:17:33,2025-05-09T04:23:43,123
+424,CVE-2008-7238,Cisco IOS Buffer Overflow CVE-2022-20695,7,under investigation,2023-07-26T02:10:00,,124
+425,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,under investigation,2023-09-03T21:25:23,,125
+426,CVE-2020-7058,Outdated Samba version vulnerable to CVE-2017-7494,7,under investigation,2025-04-25T18:29:23,,126
+427,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,fixed,2024-11-11T07:21:26,2024-07-24T22:41:04,127
+428,CVE-2022-30190,CVE-2022-30190 - Microsoft Follina RCE,8,open,2025-04-13T16:15:17,,128
+429,CVE-2011-2416,Apache HTTP Server Path Traversal (CVE-2021-41773),9,open,2025-07-14T16:00:09,,129
+430,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,fixed,2025-07-16T03:02:52,2025-05-09T13:44:50,130
+431,CVE-2021-5451,Cisco IOS Buffer Overflow CVE-2022-20695,7,fixed,2025-07-07T17:03:14,,131
+432,CVE-2007-3304,Unauthenticated printer web interface access,4,fixed,2025-03-04T10:30:55,,132
+433,CVE-2021-28799,CVE-2021-28799 - Unauthenticated RCE in QNAP,9,open,2023-12-30T15:54:38,,133
+434,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,fixed,2025-02-14T19:50:26,,134
+435,CVE-2024-1455,Local privilege escalation via PrintNightmare,7,fixed,2025-06-09T14:50:41,,135
+436,CVE-2010-3867,MySQL misconfiguration allows remote root login,7,fixed,2025-02-13T14:29:12,,136
+437,CVE-2000-3471,Weak SNMP community strings,4,under investigation,2024-10-14T21:04:36,,137
+438,CVE-2009-8303,Unencrypted management interface,5,fixed,2024-01-11T04:00:00,,138
+439,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,open,2024-11-03T07:51:59,,139
+440,CVE-2021-28799,CVE-2021-28799 - Unauthenticated RCE in QNAP,9,under investigation,2023-12-04T23:17:20,,140
+441,CVE-2008-5845,Default admin credentials enabled,6,fixed,2024-07-20T16:15:30,,141
+442,CVE-2004-3091,Local privilege escalation via PrintNightmare,7,fixed,2023-10-25T21:10:12,2024-08-18T21:25:01,142
+443,CVE-2010-9520,MySQL misconfiguration allows remote root login,7,fixed,2025-05-15T02:04:06,2024-10-07T17:34:20,143
+444,CVE-2001-9752,Weak SNMP community strings,4,open,2024-02-27T07:44:52,2024-09-25T18:31:59,144
+445,CVE-2008-9388,Cisco IOS Buffer Overflow CVE-2022-20695,7,under investigation,2024-07-20T19:46:08,2024-11-20T14:06:46,145
+446,CVE-2024-5886,Unauthenticated printer web interface access,4,open,2023-09-14T05:18:53,2024-09-28T06:00:12,146
+447,CVE-2021-28799,CVE-2021-28799 - Unauthenticated RCE in QNAP,9,under investigation,2024-11-30T11:47:56,,147
+448,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,open,2024-05-03T15:03:07,,148
+449,CVE-2022-30190,CVE-2022-30190 - Microsoft Follina RCE,8,open,2024-04-20T11:19:37,,149
+450,CVE-2021-44228,CVE-2021-44228 - Log4Shell vulnerability,10,open,2023-08-17T12:03:54,,150
+451,CVE-2002-7330,Open Telnet port detected,5,fixed,2024-12-11T13:55:43,,151
+452,CVE-2001-2788,Cisco IOS Buffer Overflow CVE-2022-20695,7,open,2024-07-01T03:22:17,,152
+453,CVE-2022-1806,Unauthenticated printer web interface access,4,open,2023-08-24T09:53:42,,153
+454,CVE-2001-9601,Exposed public SMB share,6,under investigation,2023-09-17T06:21:44,,154
+455,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,open,2024-04-29T19:54:23,,155
+456,CVE-2022-30190,CVE-2022-30190 - Microsoft Follina RCE,8,fixed,2024-08-25T18:45:01,,156
+457,CVE-2014-8426,Apache HTTP Server Path Traversal (CVE-2021-41773),9,open,2024-07-18T03:10:43,2025-01-11T09:40:50,157
+458,CVE-2010-4499,Open Telnet port detected,5,under investigation,2024-08-21T05:24:44,,158
+459,CVE-2013-7460,Unencrypted management interface,5,under investigation,2024-07-19T03:08:19,2025-07-03T20:17:52,159
+460,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,under investigation,2024-08-05T05:21:58,,160
+461,CVE-2021-28799,CVE-2021-28799 - Unauthenticated RCE in QNAP,9,fixed,2023-12-15T14:50:49,,161
+462,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,open,2025-03-14T21:20:27,2025-03-14T02:12:47,162
+463,CVE-2008-9543,Local privilege escalation via PrintNightmare,7,under investigation,2024-07-28T22:00:07,,163
+464,CVE-2021-6738,Apache HTTP Server Path Traversal (CVE-2021-41773),9,open,2023-12-05T00:01:10,,164
+465,CVE-2014-1538,Open Telnet port detected,5,open,2024-10-02T18:26:38,,165
+466,CVE-2025-3905,Unencrypted management interface,5,under investigation,2025-03-21T20:34:57,,166
+467,CVE-2002-3014,Unauthenticated printer web interface access,4,under investigation,2024-03-21T20:05:43,,167
+468,CVE-2021-28799,CVE-2021-28799 - Unauthenticated RCE in QNAP,9,open,2024-09-07T06:06:21,2025-04-15T00:31:46,168
+469,CVE-2022-1388,CVE-2022-1388 - F5 BIG-IP iControl RCE,10,under investigation,2024-02-19T19:21:49,,169
+470,CVE-2022-30190,CVE-2022-30190 - Microsoft Follina RCE,8,fixed,2023-11-04T06:40:26,,170
+471,CVE-2019-7487,Apache HTTP Server Path Traversal (CVE-2021-41773),9,fixed,2024-04-27T00:37:24,,171
+472,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,open,2024-09-05T00:02:42,,172
+473,CVE-2013-2935,Unencrypted management interface,5,fixed,2025-02-09T08:55:10,2024-11-20T04:58:40,173
+474,CVE-2012-7541,Unauthenticated printer web interface access,4,open,2025-07-11T15:25:35,,174
+475,CVE-2021-28799,CVE-2021-28799 - Unauthenticated RCE in QNAP,9,under investigation,2024-11-09T14:23:43,2025-05-21T16:08:56,175
+476,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,open,2024-07-18T01:01:29,2025-05-03T20:36:40,176
+477,CVE-2001-6634,Outdated Chrome vulnerable to CVE-2021-30551,6,open,2024-05-16T06:11:52,,177
+478,CVE-2010-6612,MySQL misconfiguration allows remote root login,7,open,2024-07-24T01:39:41,,178
+479,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,open,2025-04-08T08:51:38,2024-10-02T18:09:27,179
+480,CVE-2000-4391,Cisco IOS Buffer Overflow CVE-2022-20695,7,open,2025-05-02T04:29:53,2025-06-06T08:54:43,180
+481,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,fixed,2024-10-03T20:14:23,,181
+482,CVE-2012-8774,Exposed public SMB share,6,open,2025-02-12T11:08:30,,182
+483,CVE-2012-5913,Default admin credentials enabled,6,under investigation,2024-01-21T07:25:48,2024-10-05T18:04:59,183
+484,CVE-2022-30190,CVE-2022-30190 - Microsoft Follina RCE,8,open,2025-02-23T01:56:41,,184
+485,CVE-2011-9593,Apache HTTP Server Path Traversal (CVE-2021-41773),9,open,2024-10-25T05:52:13,,185
+486,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,fixed,2025-07-17T11:41:12,,186
+487,CVE-2019-6238,Unencrypted management interface,5,fixed,2023-10-31T11:27:16,2025-07-03T04:29:11,187
+488,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,open,2025-01-23T18:14:57,,188
+489,CVE-2012-9319,Exposed public SMB share,6,fixed,2024-05-12T21:22:15,,189
+490,CVE-2012-5088,Default admin credentials enabled,6,under investigation,2023-10-13T21:23:22,,190
+491,CVE-2007-3173,Local privilege escalation via PrintNightmare,7,open,2025-01-31T01:07:02,,191
+492,CVE-2013-4419,MySQL misconfiguration allows remote root login,7,fixed,2023-08-28T03:19:05,,192
+493,CVE-2006-2445,Open Telnet port detected,5,fixed,2025-01-31T21:55:36,2025-06-08T16:48:04,193
+494,CVE-2007-7600,Cisco IOS Buffer Overflow CVE-2022-20695,7,open,2023-12-27T03:32:00,,194
+495,CVE-2021-3438,CVE-2021-3438 - HP buffer overflow in print drivers,6,open,2024-05-23T22:05:14,,195
+496,CVE-2002-4407,Exposed public SMB share,6,open,2025-03-05T17:39:24,,196
+497,CVE-2023-20887,CVE-2023-20887 - Remote code execution via SSL VPN,9,open,2024-07-21T15:43:20,,197
+498,CVE-2013-1848,Local privilege escalation via PrintNightmare,7,open,2023-10-11T05:31:29,,198
+499,CVE-2021-44228,CVE-2021-44228 - Log4Shell vulnerability,10,fixed,2024-09-28T22:28:38,,199
+500,CVE-2021-20090,CVE-2021-20090 - Multiple routers path traversal,8,under investigation,2023-10-18T11:37:46,2025-04-24T12:15:27,200

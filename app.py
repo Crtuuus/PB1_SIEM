@@ -61,30 +61,38 @@ def show_asset(id):
     <p><strong>ID:</strong> {{asset.asset_id}}</p>
     <p><strong>IP Address:</strong> {{asset.ip_address}}</p>
     <p><strong>Device Type:</strong> {{asset.device_type}}</p>
-    <h3>Vulnerabilities</h3>
-    <ul>
+<h3>Vulnerabilities</h3>
+<ul>
+% if vulnerabilities:
     % for v in vulnerabilities:
-      <li>{{v.description}} (Score: {{v.score}})</li>
-    % else:
-      <li>No vulnerabilities</li>
+        <li>{{v.description}} (Score: {{v.score}})</li>
     % end
-    </ul>
-    <h3>SIEM Events</h3>
-    <ul>
+% else:
+    <li>No vulnerabilities</li>
+% end
+</ul>
+
+<h3>SIEM Events</h3>
+<ul>
+% if events:
     % for e in events:
-      <li>{{e.event_type}} at {{e.timestamp}}</li>
-    % else:
-      <li>No events</li>
+        <li>{{e.event_type}} at {{e.timestamp}}</li>
     % end
-    </ul>
-    <h3>Incidents</h3>
+% else:
+    <li>No events</li>
+% end
+</ul>
+
+<h3>Incidents</h3>
+% if incidents:
     <ul>
     % for inc in incidents:
-      <li><a href="/incidents/{{inc.incident_id}}">{{inc.title}}</a></li>
-    % else:
-      <li>No incidents</li>
+        <li><a href="/incidents/{{inc.incident_id}}">{{inc.title}}</a></li>
     % end
     </ul>
+% else:
+    <p>No incidents</p>
+% end
     ''', asset=asset, vulnerabilities=vulnerabilities, events=events, incidents=incidents)
 
 # List vulnerabilities

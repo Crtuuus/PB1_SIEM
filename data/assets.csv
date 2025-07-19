@@ -1,51 +1,301 @@
 asset_id,hostname,ip_address,device_type,location
-1,lucas-potter,17.214.118.157,Firewall,Chaneyside
-2,randall-middleton,218.21.31.229,Workstation,Kimton
-3,hernandez-hall,75.233.163.249,Server,Kathyborough
-4,johnson,121.13.237.115,Router,East Matthew
-5,mercado-raymond,154.77.216.124,Workstation,South James
-6,miller-beck,14.78.255.199,Workstation,South Julie
-7,dyer,110.83.215.27,Server,Elizabethburgh
-8,vasquez,75.53.250.216,Server,New Richard
-9,fletcher,129.182.251.210,Workstation,Rosebury
-10,lopez,40.20.148.85,Server,North Crystal
-11,carroll-bartlett,220.210.237.19,Firewall,Lindaport
-12,peterson-jones,82.44.77.11,Workstation,North Jefferyshire
-13,drake,170.178.170.38,Switch,Lake Dana
-14,greene,93.179.137.101,Workstation,West David
-15,mccarthy,114.197.40.123,Router,Emmashire
-16,wilson,69.145.95.4,Firewall,Beanbury
-17,terry-arnold,199.233.19.35,Switch,Julianshire
-18,williams-walker,162.143.23.88,Switch,Cynthiamouth
-19,ramirez-rosario,100.188.64.65,Workstation,South Ashley
-20,johnson-martin,19.98.242.172,Server,New Michaeltown
-21,bowen,147.25.232.220,Switch,North Francisborough
-22,becker,19.223.94.248,Firewall,Garciaville
-23,flores,169.27.223.6,Router,East Brittanymouth
-24,allen,5.206.186.95,Router,South Peggyland
-25,bowen,196.210.84.178,Workstation,Robinsonmouth
-26,rivera,202.127.92.136,Server,Caitlinmouth
-27,leonard,201.19.195.223,Workstation,West Stephanie
-28,smith,223.252.108.187,Firewall,Cameronstad
-29,davis-huffman,147.183.192.95,Switch,Lynchshire
-30,jordan-jacobs,28.148.106.103,Router,Barnestown
-31,stewart-davidson,8.120.175.223,Switch,Lowefurt
-32,burnett-garner,95.27.248.198,Switch,Ortegastad
-33,house,104.253.180.130,Switch,New Christine
-34,michael,187.24.51.152,Switch,Norrisberg
-35,torres,86.134.123.196,Workstation,Ronaldshire
-36,espinoza-wong,105.108.7.253,Router,Jackside
-37,miller,31.87.143.95,Switch,South Jameschester
-38,johnson,18.79.48.83,Switch,Lake Clintonport
-39,zuniga,181.192.111.215,Router,Bensonchester
-40,wheeler,192.12.19.107,Switch,Crystalfort
-41,kelly-thompson,174.17.91.241,Switch,South Sherryview
-42,huerta-cochran,31.196.23.156,Firewall,Davisville
-43,davis,92.45.24.84,Switch,Jenniferport
-44,ferguson,40.74.114.137,Router,Houstonside
-45,taylor,41.78.188.32,Switch,Wilsonport
-46,bond,178.217.117.121,Server,West Scottland
-47,clark,2.68.132.41,Router,Juarezchester
-48,hernandez,9.134.194.170,Firewall,North Natalie
-49,gutierrez,76.140.193.204,Workstation,South Gail
-50,beck-cervantes,105.85.148.137,Router,Maldonadoside
+1,cisco-asa-1,192.168.0.27,Firewall,North Melanieshire
+2,lenovo-thinkpad-2,192.168.1.186,Workstation,East Joshua
+3,dell-poweredge-3,10.0.0.22,Server,West Kristina
+4,juniper-4,172.16.0.239,Router,Riceberg
+5,netgear-5,192.168.0.223,Switch,Port Lisamouth
+6,canon-pixma-6,192.168.2.94,Printer,New Kathy
+7,terra-master-7,10.0.1.41,NAS,Lake Jasonchester
+8,checkpoint-8,192.168.0.31,Firewall,New Reginald
+9,lenovo-thinkpad-9,192.168.1.166,Workstation,Frankmouth
+10,dell-poweredge-10,10.0.0.24,Server,Hubbardside
+11,mikrotik-11,172.16.0.141,Router,Watsonburgh
+12,dlink-switch-12,192.168.0.247,Switch,New Dean
+13,canon-pixma-13,192.168.2.35,Printer,Sancheztown
+14,wd-mycloud-14,10.0.1.53,NAS,New Kristinstad
+15,checkpoint-15,192.168.0.18,Firewall,New Mollyfort
+16,dell-latitude-16,192.168.1.179,Workstation,Blakeside
+17,hp-proliant-17,10.0.0.30,Server,Rodriguezburgh
+18,mikrotik-18,172.16.0.188,Router,South Allison
+19,dlink-switch-19,192.168.0.234,Switch,Hortonland
+20,brother-mfc-20,192.168.2.84,Printer,South Cristianstad
+21,terra-master-21,10.0.1.78,NAS,Reedmouth
+22,paloalto-fw-22,192.168.0.32,Firewall,Pughburgh
+23,dell-latitude-23,192.168.1.112,Workstation,Andrewbury
+24,ibm-xseries-24,10.0.0.61,Server,East Valeriemouth
+25,cisco-router-25,172.16.0.219,Router,Santiagoside
+26,cisco-switch-26,192.168.0.217,Switch,North Jillfurt
+27,brother-mfc-27,192.168.2.97,Printer,North Phyllis
+28,terra-master-28,10.0.1.25,NAS,Banksview
+29,fortigate-29,192.168.0.45,Firewall,Port Christy
+30,dell-latitude-30,192.168.1.113,Workstation,North Amy
+31,dell-poweredge-31,10.0.0.58,Server,Hernandezborough
+32,cisco-router-32,172.16.0.160,Router,Alexanderland
+33,cisco-switch-33,192.168.0.236,Switch,East Stephanieshire
+34,hp-laserjet-34,192.168.2.48,Printer,Christopherbury
+35,qnap-35,10.0.1.80,NAS,New Taylorfort
+36,fortigate-36,192.168.0.47,Firewall,Johnfurt
+37,hp-elitebook-37,192.168.1.191,Workstation,Burchton
+38,dell-poweredge-38,10.0.0.56,Server,Lake Tonya
+39,juniper-39,172.16.0.119,Router,Clarkbury
+40,dlink-switch-40,192.168.0.218,Switch,Christophertown
+41,brother-mfc-41,192.168.2.31,Printer,Nancyborough
+42,synology-42,10.0.1.60,NAS,East Ricardo
+43,cisco-asa-43,192.168.0.43,Firewall,Ortiztown
+44,hp-elitebook-44,192.168.1.120,Workstation,North Janetfort
+45,ibm-xseries-45,10.0.0.57,Server,Lake Natasha
+46,mikrotik-46,172.16.0.143,Router,New Andreaside
+47,hp-switch-47,192.168.0.206,Switch,Michaelfort
+48,epson-eco-48,192.168.2.20,Printer,Fisherberg
+49,wd-mycloud-49,10.0.1.72,NAS,North Travis
+50,paloalto-fw-50,192.168.0.18,Firewall,New Nicole
+51,lenovo-thinkpad-51,192.168.1.132,Workstation,West Meghanborough
+52,supermicro-52,10.0.0.37,Server,West Austinshire
+53,mikrotik-53,172.16.0.126,Router,Port Mirandaport
+54,dlink-switch-54,192.168.0.217,Switch,Port Jamie
+55,epson-eco-55,192.168.2.34,Printer,Foxfort
+56,terra-master-56,10.0.1.52,NAS,Yuton
+57,cisco-asa-57,192.168.0.19,Firewall,Beasleystad
+58,hp-elitebook-58,192.168.1.141,Workstation,South Anntown
+59,supermicro-59,10.0.0.50,Server,Lake Georgetown
+60,juniper-60,172.16.0.177,Router,North Timothyfurt
+61,dlink-switch-61,192.168.0.239,Switch,Lake Aliciaview
+62,canon-pixma-62,192.168.2.53,Printer,West Reginastad
+63,synology-63,10.0.1.69,NAS,Port Kim
+64,checkpoint-64,192.168.0.16,Firewall,North Todd
+65,dell-latitude-65,192.168.1.176,Workstation,Port Susanchester
+66,dell-poweredge-66,10.0.0.85,Server,Lake Jeremiah
+67,ubiquiti-router-67,172.16.0.208,Router,Port Jerryshire
+68,netgear-68,192.168.0.204,Switch,Rodriguezland
+69,hp-laserjet-69,192.168.2.59,Printer,West Isaacview
+70,wd-mycloud-70,10.0.1.59,NAS,Cainland
+71,paloalto-fw-71,192.168.0.33,Firewall,Williambury
+72,lenovo-thinkpad-72,192.168.1.170,Workstation,New Ashleymouth
+73,ibm-xseries-73,10.0.0.89,Server,Burnettfort
+74,juniper-74,172.16.0.138,Router,Keithville
+75,dlink-switch-75,192.168.0.225,Switch,Andrewborough
+76,brother-mfc-76,192.168.2.57,Printer,North Candice
+77,qnap-77,10.0.1.74,NAS,Gonzalesmouth
+78,checkpoint-78,192.168.0.45,Firewall,West Julie
+79,dell-latitude-79,192.168.1.172,Workstation,Toddville
+80,hp-proliant-80,10.0.0.53,Server,Stephaniebury
+81,cisco-router-81,172.16.0.238,Router,New Danielview
+82,cisco-switch-82,192.168.0.254,Switch,Daltonborough
+83,brother-mfc-83,192.168.2.58,Printer,New Ryan
+84,qnap-84,10.0.1.78,NAS,Michaelchester
+85,paloalto-fw-85,192.168.0.5,Firewall,Longbury
+86,dell-latitude-86,192.168.1.171,Workstation,New Juan
+87,ibm-xseries-87,10.0.0.17,Server,Dominiqueton
+88,juniper-88,172.16.0.168,Router,Lake Christian
+89,cisco-switch-89,192.168.0.248,Switch,North Brianview
+90,epson-eco-90,192.168.2.41,Printer,North Timothy
+91,synology-91,10.0.1.33,NAS,Bethshire
+92,paloalto-fw-92,192.168.0.18,Firewall,North Tammyborough
+93,macbook-93,192.168.1.142,Workstation,Nguyentown
+94,hp-proliant-94,10.0.0.23,Server,Mandyview
+95,ubiquiti-router-95,172.16.0.129,Router,North Justin
+96,cisco-switch-96,192.168.0.236,Switch,Kennethshire
+97,epson-eco-97,192.168.2.42,Printer,Port Erin
+98,synology-98,10.0.1.66,NAS,East Angela
+99,paloalto-fw-99,192.168.0.37,Firewall,Lake Ricardoport
+100,hp-elitebook-100,192.168.1.108,Workstation,Wilsonview
+101,dell-poweredge-101,10.0.0.26,Server,New Emily
+102,cisco-router-102,172.16.0.48,Router,Lake Jerry
+103,netgear-103,192.168.0.231,Switch,West Maryton
+104,epson-eco-104,192.168.2.67,Printer,Knightland
+105,synology-105,10.0.1.59,NAS,Richardside
+106,checkpoint-106,192.168.0.30,Firewall,West Patriciabury
+107,macbook-107,192.168.1.181,Workstation,Harringtonfurt
+108,hp-proliant-108,10.0.0.13,Server,South Ericshire
+109,cisco-router-109,172.16.0.199,Router,Reginaldfurt
+110,netgear-110,192.168.0.230,Switch,Whitneyfurt
+111,canon-pixma-111,192.168.2.69,Printer,Allenborough
+112,qnap-112,10.0.1.52,NAS,West Julie
+113,checkpoint-113,192.168.0.15,Firewall,East Johnhaven
+114,hp-elitebook-114,192.168.1.198,Workstation,Williammouth
+115,dell-poweredge-115,10.0.0.25,Server,Port David
+116,cisco-router-116,172.16.0.147,Router,Herreraview
+117,netgear-117,192.168.0.251,Switch,Margaretmouth
+118,canon-pixma-118,192.168.2.25,Printer,Hollyberg
+119,synology-119,10.0.1.41,NAS,South John
+120,checkpoint-120,192.168.0.1,Firewall,Simpsonshire
+121,dell-latitude-121,192.168.1.122,Workstation,East Katherine
+122,dell-poweredge-122,10.0.0.85,Server,South Brooke
+123,juniper-123,172.16.0.64,Router,West Alexander
+124,dlink-switch-124,192.168.0.218,Switch,South John
+125,hp-laserjet-125,192.168.2.74,Printer,Jefferyview
+126,wd-mycloud-126,10.0.1.60,NAS,Blackwellchester
+127,fortigate-127,192.168.0.11,Firewall,Mullenmouth
+128,lenovo-thinkpad-128,192.168.1.160,Workstation,Jerrychester
+129,dell-poweredge-129,10.0.0.93,Server,North Coreystad
+130,cisco-router-130,172.16.0.248,Router,Shermanport
+131,netgear-131,192.168.0.246,Switch,Steveland
+132,brother-mfc-132,192.168.2.62,Printer,New Donald
+133,terra-master-133,10.0.1.55,NAS,Lake Dennis
+134,paloalto-fw-134,192.168.0.27,Firewall,North Mirandamouth
+135,lenovo-thinkpad-135,192.168.1.146,Workstation,Johnfurt
+136,ibm-xseries-136,10.0.0.60,Server,Jonestown
+137,cisco-router-137,172.16.0.252,Router,North Amberstad
+138,cisco-switch-138,192.168.0.235,Switch,Autumnfort
+139,canon-pixma-139,192.168.2.69,Printer,West Jessicaborough
+140,synology-140,10.0.1.77,NAS,South Amy
+141,cisco-asa-141,192.168.0.35,Firewall,Christopherside
+142,macbook-142,192.168.1.178,Workstation,New William
+143,dell-poweredge-143,10.0.0.89,Server,New Donnaberg
+144,ubiquiti-router-144,172.16.0.79,Router,Lorifurt
+145,dlink-switch-145,192.168.0.244,Switch,Osborneside
+146,canon-pixma-146,192.168.2.91,Printer,Beardview
+147,synology-147,10.0.1.37,NAS,Murphyborough
+148,cisco-asa-148,192.168.0.42,Firewall,Sanchezside
+149,lenovo-thinkpad-149,192.168.1.116,Workstation,Scottburgh
+150,ibm-xseries-150,10.0.0.81,Server,Heatherton
+151,cisco-router-151,172.16.0.104,Router,Ericshire
+152,dlink-switch-152,192.168.0.208,Switch,West Johnmouth
+153,brother-mfc-153,192.168.2.48,Printer,Jodibury
+154,synology-154,10.0.1.21,NAS,Lorihaven
+155,checkpoint-155,192.168.0.23,Firewall,Grossstad
+156,dell-latitude-156,192.168.1.115,Workstation,South Sueville
+157,ibm-xseries-157,10.0.0.91,Server,Carriefurt
+158,cisco-router-158,172.16.0.236,Router,South John
+159,netgear-159,192.168.0.216,Switch,Bobbybury
+160,canon-pixma-160,192.168.2.18,Printer,New Spencerburgh
+161,qnap-161,10.0.1.28,NAS,West Scottmouth
+162,paloalto-fw-162,192.168.0.40,Firewall,Mckinneyshire
+163,macbook-163,192.168.1.127,Workstation,West Susan
+164,supermicro-164,10.0.0.97,Server,Mitchellside
+165,cisco-router-165,172.16.0.100,Router,New Yvonne
+166,dlink-switch-166,192.168.0.219,Switch,Lake Justinton
+167,brother-mfc-167,192.168.2.10,Printer,Robinsonchester
+168,qnap-168,10.0.1.44,NAS,New Elizabeth
+169,fortigate-169,192.168.0.9,Firewall,Walterfort
+170,dell-latitude-170,192.168.1.125,Workstation,Fishertown
+171,supermicro-171,10.0.0.95,Server,Maryfurt
+172,ubiquiti-router-172,172.16.0.120,Router,West Frederickport
+173,cisco-switch-173,192.168.0.205,Switch,New Amyview
+174,epson-eco-174,192.168.2.15,Printer,New Stacy
+175,terra-master-175,10.0.1.23,NAS,South Barbara
+176,paloalto-fw-176,192.168.0.19,Firewall,New John
+177,lenovo-thinkpad-177,192.168.1.115,Workstation,Thomashaven
+178,supermicro-178,10.0.0.57,Server,Coffeyberg
+179,juniper-179,172.16.0.14,Router,North John
+180,netgear-180,192.168.0.238,Switch,Lake Andrea
+181,canon-pixma-181,192.168.2.62,Printer,South Kim
+182,terra-master-182,10.0.1.32,NAS,Andersonmouth
+183,fortigate-183,192.168.0.44,Firewall,Danielmouth
+184,lenovo-thinkpad-184,192.168.1.125,Workstation,Thomashaven
+185,ibm-xseries-185,10.0.0.82,Server,East Miguel
+186,cisco-router-186,172.16.0.35,Router,Whitebury
+187,netgear-187,192.168.0.209,Switch,Samanthaburgh
+188,canon-pixma-188,192.168.2.43,Printer,Port Jeffery
+189,qnap-189,10.0.1.59,NAS,New Davidtown
+190,checkpoint-190,192.168.0.26,Firewall,West David
+191,hp-elitebook-191,192.168.1.187,Workstation,Allenport
+192,dell-poweredge-192,10.0.0.80,Server,Mitchellfurt
+193,cisco-router-193,172.16.0.207,Router,North Amanda
+194,hp-switch-194,192.168.0.237,Switch,Port Davidfort
+195,hp-laserjet-195,192.168.2.66,Printer,Cainville
+196,wd-mycloud-196,10.0.1.43,NAS,South Frederickport
+197,paloalto-fw-197,192.168.0.16,Firewall,Port Danielbury
+198,macbook-198,192.168.1.170,Workstation,Port Matthew
+199,dell-poweredge-199,10.0.0.37,Server,Smithborough
+200,mikrotik-200,172.16.0.66,Router,Lake Elaine
+201,netgear-201,192.168.0.238,Switch,East Patricia
+202,canon-pixma-202,192.168.2.66,Printer,Pricechester
+203,synology-203,10.0.1.30,NAS,East Jacobland
+204,checkpoint-204,192.168.0.4,Firewall,Jonesbury
+205,lenovo-thinkpad-205,192.168.1.166,Workstation,North Steve
+206,ibm-xseries-206,10.0.0.11,Server,Salazarborough
+207,ubiquiti-router-207,172.16.0.216,Router,Anthonyberg
+208,cisco-switch-208,192.168.0.245,Switch,Jeffreyview
+209,hp-laserjet-209,192.168.2.71,Printer,Joneschester
+210,wd-mycloud-210,10.0.1.76,NAS,West Catherineview
+211,cisco-asa-211,192.168.0.3,Firewall,West Mary
+212,macbook-212,192.168.1.113,Workstation,Aaronview
+213,hp-proliant-213,10.0.0.48,Server,Justinland
+214,ubiquiti-router-214,172.16.0.52,Router,East Lindsey
+215,dlink-switch-215,192.168.0.225,Switch,Port Tracyburgh
+216,brother-mfc-216,192.168.2.95,Printer,New Sarahstad
+217,synology-217,10.0.1.50,NAS,New Samanthachester
+218,checkpoint-218,192.168.0.9,Firewall,Robinsonberg
+219,dell-latitude-219,192.168.1.131,Workstation,Tonyaburgh
+220,hp-proliant-220,10.0.0.29,Server,Lake Christinafort
+221,juniper-221,172.16.0.186,Router,West Ernest
+222,netgear-222,192.168.0.216,Switch,East Joshua
+223,canon-pixma-223,192.168.2.25,Printer,Vazquezberg
+224,qnap-224,10.0.1.76,NAS,West Zachary
+225,checkpoint-225,192.168.0.10,Firewall,Mikeborough
+226,macbook-226,192.168.1.110,Workstation,East Amandaside
+227,hp-proliant-227,10.0.0.40,Server,Charlesbury
+228,mikrotik-228,172.16.0.211,Router,Johnsonmouth
+229,netgear-229,192.168.0.204,Switch,Lake Brittany
+230,epson-eco-230,192.168.2.42,Printer,West David
+231,qnap-231,10.0.1.40,NAS,West Jenniferberg
+232,fortigate-232,192.168.0.13,Firewall,Riverafurt
+233,hp-elitebook-233,192.168.1.104,Workstation,Port Meaganbury
+234,hp-proliant-234,10.0.0.20,Server,Millerstad
+235,ubiquiti-router-235,172.16.0.110,Router,South Stanleyland
+236,cisco-switch-236,192.168.0.203,Switch,South Donaldside
+237,brother-mfc-237,192.168.2.30,Printer,West Cody
+238,qnap-238,10.0.1.38,NAS,Christineport
+239,cisco-asa-239,192.168.0.3,Firewall,Popeborough
+240,hp-elitebook-240,192.168.1.137,Workstation,North Jason
+241,dell-poweredge-241,10.0.0.87,Server,Greenfort
+242,mikrotik-242,172.16.0.200,Router,Emilymouth
+243,dlink-switch-243,192.168.0.211,Switch,Natashaberg
+244,epson-eco-244,192.168.2.44,Printer,Port Karen
+245,qnap-245,10.0.1.28,NAS,Port Danielstad
+246,cisco-asa-246,192.168.0.21,Firewall,Stanleyberg
+247,hp-elitebook-247,192.168.1.149,Workstation,Lake Nicoleland
+248,dell-poweredge-248,10.0.0.13,Server,Port Janiceport
+249,juniper-249,172.16.0.26,Router,Port Wendyside
+250,cisco-switch-250,192.168.0.206,Switch,New Amymouth
+251,hp-laserjet-251,192.168.2.89,Printer,Rileyfurt
+252,wd-mycloud-252,10.0.1.32,NAS,Thomasland
+253,checkpoint-253,192.168.0.20,Firewall,West Brittneyview
+254,dell-latitude-254,192.168.1.161,Workstation,Wendychester
+255,dell-poweredge-255,10.0.0.89,Server,Lake Walter
+256,cisco-router-256,172.16.0.187,Router,Watsontown
+257,netgear-257,192.168.0.253,Switch,New Amyborough
+258,brother-mfc-258,192.168.2.92,Printer,Port Kathleenhaven
+259,wd-mycloud-259,10.0.1.70,NAS,Matthewton
+260,fortigate-260,192.168.0.39,Firewall,Jesseview
+261,dell-latitude-261,192.168.1.101,Workstation,Martinezshire
+262,ibm-xseries-262,10.0.0.67,Server,Smithhaven
+263,ubiquiti-router-263,172.16.0.52,Router,Kellyhaven
+264,hp-switch-264,192.168.0.252,Switch,Sarahchester
+265,brother-mfc-265,192.168.2.62,Printer,Lisaton
+266,terra-master-266,10.0.1.39,NAS,Weberborough
+267,checkpoint-267,192.168.0.4,Firewall,Lake Virginia
+268,lenovo-thinkpad-268,192.168.1.133,Workstation,Murphychester
+269,hp-proliant-269,10.0.0.82,Server,Elliotttown
+270,juniper-270,172.16.0.219,Router,Stewartside
+271,cisco-switch-271,192.168.0.215,Switch,Johnborough
+272,canon-pixma-272,192.168.2.55,Printer,West Kevinmouth
+273,wd-mycloud-273,10.0.1.49,NAS,East Jeremiah
+274,cisco-asa-274,192.168.0.34,Firewall,Michaelfort
+275,hp-elitebook-275,192.168.1.121,Workstation,Amberberg
+276,ibm-xseries-276,10.0.0.39,Server,Jessicaview
+277,mikrotik-277,172.16.0.202,Router,Port Russellfurt
+278,netgear-278,192.168.0.252,Switch,Smithtown
+279,canon-pixma-279,192.168.2.99,Printer,Jeffreyshire
+280,terra-master-280,10.0.1.73,NAS,Jamesmouth
+281,fortigate-281,192.168.0.29,Firewall,West Lindsey
+282,hp-elitebook-282,192.168.1.104,Workstation,Donaldbury
+283,hp-proliant-283,10.0.0.14,Server,Lake Sharonfurt
+284,cisco-router-284,172.16.0.211,Router,East Amytown
+285,cisco-switch-285,192.168.0.254,Switch,Mitchellchester
+286,epson-eco-286,192.168.2.52,Printer,Port Christopher
+287,synology-287,10.0.1.38,NAS,Dixonland
+288,checkpoint-288,192.168.0.22,Firewall,Lake Bradley
+289,lenovo-thinkpad-289,192.168.1.161,Workstation,Hughesbury
+290,hp-proliant-290,10.0.0.66,Server,Margaretstad
+291,cisco-router-291,172.16.0.212,Router,North Olivia
+292,cisco-switch-292,192.168.0.213,Switch,South Manuel
+293,hp-laserjet-293,192.168.2.96,Printer,Port Cathy
+294,synology-294,10.0.1.78,NAS,Christinachester
+295,cisco-asa-295,192.168.0.38,Firewall,Markside
+296,hp-elitebook-296,192.168.1.165,Workstation,South Lindsey
+297,hp-proliant-297,10.0.0.64,Server,Gibbsside
+298,cisco-router-298,172.16.0.155,Router,Mariamouth
+299,cisco-switch-299,192.168.0.238,Switch,North Elizabeth
+300,hp-laserjet-300,192.168.2.65,Printer,Cherylmouth
